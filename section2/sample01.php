@@ -16,7 +16,7 @@
 </header>
 
 <main>
-<h2>Practice</h2>
+<h2>8. print構文 - 画面に文章を表示する</h2>
 <pre>
 <!-- ここにプログラムを記述します -->
 <?php
