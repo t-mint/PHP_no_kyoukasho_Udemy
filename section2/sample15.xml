@@ -1,0 +1,2436 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>H2O space</title>
+	<atom:link href="https://h2o-space.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://h2o-space.com</link>
+	<description>ウェブをちゃんと</description>
+	<lastBuildDate>Fri, 28 Feb 2020 07:28:52 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+
+<image>
+	<url>https://h2o-space.com/wp-content/uploads/2020/02/favicon.ico</url>
+	<title>H2O space</title>
+	<link>https://h2o-space.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Snow Monkey Blocksで挿入できるパーツ一覧</title>
+		<link>https://h2o-space.com/blog/snow-monkey-blocks-list/</link>
+				<pubDate>Thu, 27 Feb 2020 00:47:49 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+		<category><![CDATA[Snow Monkey]]></category>
+
+		<guid isPermaLink="false">http://h2o-space.com/?p=2571</guid>
+				<description><![CDATA[WordPressのビジュアルエディター（Gutenberg）は、前回紹介した標準のパーツ（ブロック）の他に、プラグインなどでパーツを増やすことができます。H2O spaceの、ウェブサイト活用サポートで利用している Snow Monkeyには、公式のプラグイン「Snow Monkey Blocks」で、たくさんのパーツを追加することができます。ここでは、その各種類を紹介しましょう。]]></description>
+								<content:encoded><![CDATA[
+<p>WordPressのビジュアルエディター（Gutenberg）は、<a href="https://h2o-space.com/blog/wordpress-visual-editor-parts/">前回紹介した標準のパーツ（ブロック）</a>の他に、プラグインなどでパーツを増やすことができます。H2O spaceの、<a href="https://h2o-space.com/service/web/">ウェブサイト活用サポート</a>で利用している Snow Monkeyには、公式のプラグイン「Snow Monkey Blocks」で、たくさんのパーツを追加することができます。ここでは、その各種類を紹介しましょう。</p>
+
+
+
+<span id="more-2571"></span>
+
+
+
+
+
+<h2>目次</h2>
+
+
+
+<p>ページ内に設定した見出しを自動的に目次にして表示してくれます。この記事の先頭にも設置しています。</p>
+
+
+
+<h2>アコーディオン</h2>
+
+
+
+<p>クリックで開閉できるエリアを設置できます。大量のコンテンツを分かりやすく紹介できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-accordion smb-accordion">
+<div class="wp-block-snow-monkey-blocks-accordion--item smb-accordion__item"><input type="checkbox" class="smb-accordion__item__control"/><div class="smb-accordion__item__title"><span class="smb-accordion__item__title__label">タイトル1</span><div class="smb-accordion__item__title__icon"><i class="fas fa-angle-down"></i></div></div><div class="smb-accordion__item__body">
+<p>項目1</p>
+</div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-accordion--item smb-accordion__item"><input type="checkbox" class="smb-accordion__item__control"/><div class="smb-accordion__item__title"><span class="smb-accordion__item__title__label">タイトル2</span><div class="smb-accordion__item__title__icon"><i class="fas fa-angle-down"></i></div></div><div class="smb-accordion__item__body">
+<p>項目2</p>
+</div></div>
+</div>
+
+
+
+<h2>アラート</h2>
+
+
+
+<p>アイコンを付加した、目立つ領域を設置できます。注意喚起などに利用できます。色やアイコンを変更できます。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-42.png" alt="" class="wp-image-2572" width="239" height="168" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-42.png 332w, https://h2o-space.com/wp-content/uploads/2020/02/image-42-300x211.png 300w" sizes="(max-width: 239px) 100vw, 239px" /></figure></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-alert smb-alert"><div class="smb-alert__title"><i class="fas fa-check"></i><strong>ノーマルアラート</strong></div><div class="smb-alert__body"><p>アラートの内容です。アイコンも変更できます。</p></div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-alert smb-alert smb-alert--warning"><div class="smb-alert__title"><i class="fas fa-exclamation-circle"></i><strong>ワーニングアラート</strong></div><div class="smb-alert__body"><p>背景やアイコンが赤になります</p></div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-alert smb-alert smb-alert--success"><div class="smb-alert__title"><i class="fas fa-check-square"></i><strong>サクセスアラート</strong></div><div class="smb-alert__body"><p>背景やアイコンが緑になります</p></div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-alert smb-alert smb-alert--remark"><div class="smb-alert__title"><i class="fas fa-hand-point-right"></i><strong>リマークアラート</strong></div><div class="smb-alert__body"><p>背景やアイコンがグレーになります</p></div></div>
+
+
+
+<h2>吹き出し</h2>
+
+
+
+<p>セリフ調の装飾を加えることができます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-balloon smb-balloon"><div class="smb-balloon__person"><div class="smb-balloon__figure"><img src="http://h2o-space.com/wp-content/uploads/2019/08/img_aboutme_big-150x150.jpg" alt="" class="wp-image-2235"/></div><div class="smb-balloon__name">たにぐち まこと</div></div><div class="smb-balloon__body"><p>アイコンや名前を設定することもできます。</p></div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-balloon smb-balloon smb-balloon--reverse"><div class="smb-balloon__person"><div class="smb-balloon__figure" style="border-color:#fcb900"><img src="https://0.gravatar.com/avatar/00000000000000000000000000000000?s=128&amp;d=mp&amp;r=g" alt="" class="wp-image-0"/></div><div class="smb-balloon__name">ゲスト</div></div><div class="smb-balloon__body"><p>逆側の吹き出しも設定できます</p></div></div>
+
+
+
+<h2>ボックス</h2>
+
+
+
+<p>コンテンツの内容を枠で囲むことができます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-box smb-box" style="border-width:1px"><div class="smb-box__body">
+<p class="is-style-default">ボックス内には、各パーツを挿入できます。</p>
+</div></div>
+
+
+
+<h2>ボタンボックス</h2>
+
+
+
+<p>ボタンと見出しなどを設定できます。ページ最後の誘導などに利用できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-btn-box smb-btn-box"><div class="c-container"><div class="smb-btn-box__lede">ボタンボックスのタイトル</div><div class="smb-btn-box__btn-wrapper"><a class="smb-btn" href=""><span class="smb-btn__label">ボタンのラベル</span></a></div><div class="smb-btn-box__note">注釈を入れることもできます</div></div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-btn-box smb-btn-box"><div class="c-container"><div class="smb-btn-box__lede">フルサイズボタン</div><div class="smb-btn-box__btn-wrapper"><a class="smb-btn smb-btn--full" href=""><span class="smb-btn__label">ボタンのラベル</span></a></div></div></div>
+
+
+
+<h2>ボタン</h2>
+
+
+
+<p>ページ内にボタンを設置することができます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-btn aligncenter u-clearfix smb-btn-wrapper"><a class="smb-btn" href=""><span class="smb-btn__label">ボタン</span></a></div>
+
+
+
+<h2>カテゴリー一覧</h2>
+
+
+
+<p>「投稿」に設定しているカテゴリーのリンクリストを表示できます</p>
+
+
+<div class="smb-categories-list ">
+	<ul class="smb-categories-list__list">
+								<li class="smb-categories-list__item smb-categories-list__item__slug-127">
+				<div class="smb-categories-list__item__count">
+					123					<span>記事</span>
+				</div>
+
+				<div class="smb-categories-list__item__detail">
+					<div class="smb-categories-list__item__category-name">
+						<a href="https://h2o-space.com/blog/category/web/">
+							ウェブサイト活用サポート						</a>
+					</div>
+
+					
+											<div class="smb-categories-list__item__recent-label">
+							最近の投稿						</div>
+						<ul class="smb-categories-list__item__list">
+																																								<li>
+										<a href="https://h2o-space.com/blog/snow-monkey-blocks-list/">
+											Snow Monkey Blocksで挿入できるパーツ一覧										</a>
+									</li>
+																										<li>
+										<a href="https://h2o-space.com/blog/wordpress-visual-editor-parts/">
+											WordPress のビジュアルエディター（Gutenberg）で挿入できるパーツリスト										</a>
+									</li>
+																										<li>
+										<a href="https://h2o-space.com/blog/page-to-front-page/">
+											WordPressのフロントページ（トップページ）を固定ページにする方法										</a>
+									</li>
+																										<li>
+										<a href="https://h2o-space.com/blog/snow-monkey-customize-guide/">
+											Snow Monkeyカスタマイズガイド										</a>
+									</li>
+																										<li>
+										<a href="https://h2o-space.com/blog/description/">
+											御社を 3行で説明してください &#8211; Descriptionの設定										</a>
+									</li>
+																													</ul>
+									</div>
+			</li>
+			</ul>
+</div>
+
+
+
+<h2>このページの子ページ</h2>
+
+
+
+<p>固定ページを作った時に、「子ページ」が存在する場合に、その子ページのリストを表示することができます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-43-1024x390.png" alt="" class="wp-image-2575" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-43-1024x390.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-43-300x114.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-43-768x292.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-43.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>コンテナ</h2>
+
+
+
+<p>いくつかのパーツをグループにすることができます。</p>
+
+
+
+<h2>カウントダウンタイマー</h2>
+
+
+
+<p>時間を設定し、カウントダウンを開始することができます。イベント開始までのカウントダウンなどに利用できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-countdown smb-countdown"><ul class="smb-countdown__list" data-time="2120-02-27T08:28:00"><li class="smb-countdown__list-item smb-countdown__list-item__days"><span class="smb-countdown__list-item__numeric">&#8211;</span><span class="smb-countdown__list-item__clock">日</span></li><li class="smb-countdown__list-item smb-countdown__list-item__hours"><span class="smb-countdown__list-item__numeric">&#8212;</span><span class="smb-countdown__list-item__clock">時間</span></li><li class="smb-countdown__list-item smb-countdown__list-item__minutes"><span class="smb-countdown__list-item__numeric">&#8212;</span><span class="smb-countdown__list-item__clock">分</span></li><li class="smb-countdown__list-item smb-countdown__list-item__seconds"><span class="smb-countdown__list-item__numeric">&#8212;</span><span class="smb-countdown__list-item__clock">秒</span></li></ul></div>
+
+
+
+<h2>ディレクトリ構造</h2>
+
+
+
+<p>ディレクトリ項目と、ファイル項目を追加しながらディレクトリー構造を提示することができます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-directory-structure smb-directory-structure">
+<div class="wp-block-snow-monkey-blocks-directory-structure--item--directory smb-directory-structure__item smb-directory-structure__item--directory"><p><span class="fa-fw"><i class="fas fa-folder"></i></span><span class="smb-directory-structure__item__name">フォルダー1</span></p><div class="smb-directory-structure__item__list">
+<div class="wp-block-snow-monkey-blocks-directory-structure--item--file smb-directory-structure__item smb-directory-structure__item--file"><p><span class="fa-fw"><i class="fas fa-file"></i></span><span class="smb-directory-structure__item__name">ファイル1</span></p></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-directory-structure--item--file smb-directory-structure__item smb-directory-structure__item--file"><p><span class="fa-fw"><i class="fas fa-file"></i></span><span class="smb-directory-structure__item__name">ファイル2</span></p></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-directory-structure--item--directory smb-directory-structure__item smb-directory-structure__item--directory"><p><span class="fa-fw"><i class="fas fa-folder"></i></span><span class="smb-directory-structure__item__name">サブディレクトリー</span></p><div class="smb-directory-structure__item__list">
+<div class="wp-block-snow-monkey-blocks-directory-structure--item--file smb-directory-structure__item smb-directory-structure__item--file"><p><span class="fa-fw"><i class="fas fa-file"></i></span><span class="smb-directory-structure__item__name">ファイル1-2</span></p></div>
+</div></div>
+</div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-directory-structure--item--directory smb-directory-structure__item smb-directory-structure__item--directory"><p><span class="fa-fw"><i class="fas fa-folder"></i></span><span class="smb-directory-structure__item__name">フォルダー2</span></p><div class="smb-directory-structure__item__list"></div></div>
+</div>
+
+
+
+<h2>星評価</h2>
+
+
+
+<p>0から5の数字を設定し、星のアイコンで評価などを示すことができます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-evaluation-star smb-evaluation-star"><div class="smb-evaluation-star__body"><span class="smb-evaluation-star__numeric smb-evaluation-star__numeric--right" style="color:#cf2e2e">3.5</span><div class="smb-evaluation-star__icon" style="color:#ff6900"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i><i class="far fa-star"></i></div></div></div>
+
+
+
+<h2>FAQ</h2>
+
+
+
+<p>Qと Aを入力して、よくある質問を掲載できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-faq smb-faq"><div class="smb-faq__body">
+<div class="wp-block-snow-monkey-blocks-faq--item smb-faq__item"><div class="smb-faq__item__question"><div class="smb-faq__item__question__label">Q</div><div class="smb-faq__item__question__body">質問です</div></div><div class="smb-faq__item__answer"><div class="smb-faq__item__answer__label">A</div><div class="smb-faq__item__answer__body">
+<p>回答です。冒頭の Qと Aは変更も可能です。</p>
+</div></div></div>
+</div></div>
+
+
+
+<h2>項目</h2>
+
+
+
+<p>画像や見出し、リンクなどのセットを並べることができます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-items smb-items"><div class="c-row c-row--margin" data-columns="1" data-md-columns="1" data-lg-columns="2">
+<div class="wp-block-snow-monkey-blocks-items--item--standard c-row__col"><div class="smb-items__item"><div class="smb-items__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB.jpg" alt="" class="wp-image-2363" srcset="https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB.jpg 1024w, https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-items__item__title">タイトル</div><div class="smb-items__item__lede">リード文</div><div class="smb-items__item__content">内容です。</div></div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-items--item--block-link c-row__col"><a class="smb-items__item" href="https://h2o-space.com/service/movie/"><div class="smb-items__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg" alt="" class="wp-image-2378" srcset="https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-768x512.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-items__item__title">ブロックリンクスタイル</div><div class="smb-items__item__content">ブロック全体にリンクを設置できます</div></a></div>
+</div></div>
+
+
+
+<h2>いいね！ボックス</h2>
+
+
+
+<p>Facebookページへの「いいね！」を促すエリアを設置できます。（以下は、Snow Monkeyの Facebookページです）</p>
+
+
+<div class="smb-like-me-box ">
+	<div class="wp-like-me-box">
+		<div class="wp-like-me-box__figure" style="background-image: url(
+		https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-1024x690.jpg	)"></div>
+	<div class="wp-like-me-box__body">
+		<h3 class="wp-like-me-box__title">
+			この記事が気に入ったら<br>
+			いいね！しよう		</h3>
+
+		<div class="wp-like-me-box__like">
+						<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Finc2734.monkey.wrench%2F&amp;width=106&amp;layout=button_count&amp;action=like&amp;size=small&amp;show_faces=false&amp;share=false&amp;height=21" width="106" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		</div>
+
+		<div class="wp-like-me-box__lead">
+			最新の情報をお届けします		</div>
+	</div>
+</div>
+</div>
+
+
+
+<h2>期間限定の表示</h2>
+
+
+
+<p>開始日時と、終了日時を指定してコンテンツを表示できます。</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-44.png" alt="" class="wp-image-2576" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-44.png 970w, https://h2o-space.com/wp-content/uploads/2020/02/image-44-300x65.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-44-768x167.png 768w" sizes="(max-width: 970px) 100vw, 970px" /></figure>
+
+
+
+<h2>アイコンリスト</h2>
+
+
+
+<p>リスト項目を追加し、アイコンを変更することができます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-list smb-list" data-icon="angle-double-right"><ul><li>リスト1</li><li>リスト2</li></ul></div>
+
+
+
+<h2>メディアと文章</h2>
+
+
+
+<p>画像と文章を左右で掲載できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-media-text smb-media-text"><div class="c-row c-row--margin c-row--middle"><div class="c-row__col c-row__col--1-1 c-row__col--lg-2-3"><div class="smb-media-text__body">
+<p>画像の隣にコンテンツを展開できます。</p>
+
+
+
+<p>画像の位置は左右や大きさは変更できます。</p>
+</div></div><div class="c-row__col c-row__col--1-1 c-row__col--lg-1-3"><div class="smb-media-text__figure"><img src="http://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg" alt="" class="wp-image-2378" srcset="https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-768x512.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-media-text__caption">画像のキャプション</div></div></div></div>
+
+
+
+<h2>パネル</h2>
+
+
+
+<p>画像やリンクを、パネル調の装飾で表示できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-panels smb-panels" data-image-padding="false"><div class="c-row c-row--margin c-row--fill" data-columns="1" data-md-columns="1" data-lg-columns="2">
+<div class="wp-block-snow-monkey-blocks-panels--item c-row__col"><a class="smb-panels__item" href="https://h2o-space.com/service/movie/"><div class="smb-panels__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg" alt="" class="wp-image-2378" srcset="https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-768x512.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-panels__item__body"><div class="smb-panels__item__title">パネルのタイトル</div><div class="smb-panels__item__content">内容</div><div class="smb-panels__item__action"><div class="smb-panels__item__link">リンク</div></div></div></a></div>
+</div></div>
+
+
+
+<h2>ピックアップスライダー</h2>
+
+
+
+<p>「pickup」というタグをつけた投稿の一覧を作ることができます。</p>
+
+
+
+<h2>価格メニュー</h2>
+
+
+
+<p>価格を表示しやすいボックスを挿入できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-price-menu smb-price-menu">
+<div class="wp-block-snow-monkey-blocks-price-menu--item smb-price-menu__item"><div class="smb-price-menu__item__title">商品1</div><div class="smb-price-menu__item__price">1,000</div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-price-menu--item smb-price-menu__item"><div class="smb-price-menu__item__title">商品2</div><div class="smb-price-menu__item__price">3,000</div></div>
+</div>
+
+
+
+<h2>価格表</h2>
+
+
+
+<p>1, 2件の価格を大きく提示できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-pricing-table smb-pricing-table"><div class="c-row c-row--md-nowrap">
+<div class="wp-block-snow-monkey-blocks-pricing-table--item c-row__col"><div class="smb-pricing-table__item"><div class="smb-pricing-table__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg" alt="" class="wp-image-2378" srcset="https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-768x512.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-pricing-table__item__title">商品1</div><div class="smb-pricing-table__item__price">\1,000</div><div class="smb-pricing-table__item__lede">リード文</div><ul><li>項目1</li><li>項目2</li></ul><div class="smb-pricing-table__item__action"><a class="smb-pricing-table__item__btn smb-btn" href=""><span class="smb-btn__label">ボタン</span></a></div></div></div>
+</div></div>
+
+
+
+<h2>レーティングボックス</h2>
+
+
+
+<p>項目名と、そのレベルを設定できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-rating-box smb-rating-box"><div class="smb-rating-box__body">
+<div class="wp-block-snow-monkey-blocks-rating-box--item smb-rating-box__item"><div class="smb-rating-box__item__title">項目1</div><div class="smb-rating-box__item__evaluation"><div class="smb-rating-box__item__evaluation__bar"><div class="smb-rating-box__item__evaluation__numeric">6</div><div class="smb-rating-box__item__evaluation__rating" style="width:60%;background-color:#f78da7"></div></div></div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-rating-box--item smb-rating-box__item"><div class="smb-rating-box__item__title">項目2</div><div class="smb-rating-box__item__evaluation"><div class="smb-rating-box__item__evaluation__bar"><div class="smb-rating-box__item__evaluation__numeric">3</div><div class="smb-rating-box__item__evaluation__rating" style="width:30%"></div></div></div></div>
+</div></div>
+
+
+
+<h2>最近の投稿</h2>
+
+
+
+<p>投稿を最新順に並べることができます。</p>
+
+
+<div class="smb-recent-posts " id="">
+	
+<div class="snow-monkey-posts snow-monkey-recent-posts">
+	
+	<ul class="c-entries c-entries--rich-media" data-has-infeed-ads="false">
+								<li class="c-entries__item">
+				
+<a href="https://h2o-space.com/blog/snow-monkey-blocks-list/">
+	<section class="c-entry-summary c-entry-summary--post">
+		
+<div class="c-entry-summary__figure">
+	<img width="768" height="518" src="https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-768x518.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" srcset="https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-768x518.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-300x202.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-1024x690.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />
+	
+	<span class="c-entry-summary__term c-entry-summary__term--category-127">
+		ウェブサイト活用サポート	</span>
+</div>
+
+		<div class="c-entry-summary__body">
+			<header class="c-entry-summary__header">
+				
+<h2 class="c-entry-summary__title">
+	Snow Monkey Blocksで挿入できるパーツ一覧</h2>
+			</header>
+
+			
+<div class="c-entry-summary__content">
+	WordPressのビジュアルエディター（Gutenberg）は、前回紹介した標準のパーツ（ブロック）の他に、プラグインなどでパーツを増やすことができます。H2O spaceの、ウェブサイト活用サポートで利用している Snow Monkeyには、公式のプラグイン「Snow Monkey Blocks」で、たくさんのパーツを追加することができます。ここでは、その各種類を紹介しましょう。</div>
+
+			
+<div class="c-entry-summary__meta">
+	<ul class="c-meta">
+		<li class="c-meta__item c-meta__item--author">
+			<img alt='' src='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />谷口 允（たにぐち まこと）		</li>
+		<li class="c-meta__item c-meta__item--published">
+			2020.02.27		</li>
+	</ul>
+</div>
+		</div>
+	</section>
+</a>
+			</li>
+								<li class="c-entries__item">
+				
+<a href="https://h2o-space.com/blog/wordpress-visual-editor-parts/">
+	<section class="c-entry-summary c-entry-summary--post">
+		
+<div class="c-entry-summary__figure">
+	<img width="768" height="518" src="https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-768x518.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" srcset="https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-768x518.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-300x202.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-1024x690.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />
+	
+	<span class="c-entry-summary__term c-entry-summary__term--category-127">
+		ウェブサイト活用サポート	</span>
+</div>
+
+		<div class="c-entry-summary__body">
+			<header class="c-entry-summary__header">
+				
+<h2 class="c-entry-summary__title">
+	WordPress のビジュアルエディター（Gutenberg）で挿入できるパーツリスト</h2>
+			</header>
+
+			
+<div class="c-entry-summary__content">
+	WordPressのビジュアルエディター（Gutenberg）では、数多くのパーツを挿入することができます。ここでは、その各パーツの使い方などを紹介しましょう。</div>
+
+			
+<div class="c-entry-summary__meta">
+	<ul class="c-meta">
+		<li class="c-meta__item c-meta__item--author">
+			<img alt='' src='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />谷口 允（たにぐち まこと）		</li>
+		<li class="c-meta__item c-meta__item--published">
+			2020.02.26		</li>
+	</ul>
+</div>
+		</div>
+	</section>
+</a>
+			</li>
+								<li class="c-entries__item">
+				
+<a href="https://h2o-space.com/blog/page-to-front-page/">
+	<section class="c-entry-summary c-entry-summary--post">
+		
+<div class="c-entry-summary__figure">
+	<img width="768" height="511" src="https://h2o-space.com/wp-content/uploads/2020/02/entrance-P7SC53L-768x511.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" srcset="https://h2o-space.com/wp-content/uploads/2020/02/entrance-P7SC53L-768x511.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/entrance-P7SC53L-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/entrance-P7SC53L.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" />
+	
+	<span class="c-entry-summary__term c-entry-summary__term--category-127">
+		ウェブサイト活用サポート	</span>
+</div>
+
+		<div class="c-entry-summary__body">
+			<header class="c-entry-summary__header">
+				
+<h2 class="c-entry-summary__title">
+	WordPressのフロントページ（トップページ）を固定ページにする方法</h2>
+			</header>
+
+			
+<div class="c-entry-summary__content">
+	WordPressでは、通常トップページは最新の投稿一覧が表示されますが、これを固定ページに変更することができます。その手順を紹介しましょう。</div>
+
+			
+<div class="c-entry-summary__meta">
+	<ul class="c-meta">
+		<li class="c-meta__item c-meta__item--author">
+			<img alt='' src='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />谷口 允（たにぐち まこと）		</li>
+		<li class="c-meta__item c-meta__item--published">
+			2020.02.25		</li>
+	</ul>
+</div>
+		</div>
+	</section>
+</a>
+			</li>
+					</ul>
+
+	</div>
+</div>
+
+
+
+<h2>スライダー</h2>
+
+
+
+<p>大きな画像を表示するスライダーを表示できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-slider smb-slider"><div class="smb-slider__canvas" dir="ltr" data-smb-slider="{&quot;slidesToShow&quot;:1,&quot;slidesToScroll&quot;:1,&quot;mdSlidesToShow&quot;:1,&quot;mdSlidesToScroll&quot;:1,&quot;smSlidesToShow&quot;:1,&quot;smSlidesToScroll&quot;:1,&quot;dots&quot;:false,&quot;arrows&quot;:true,&quot;speed&quot;:300,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:0,&quot;fade&quot;:false,&quot;rtl&quot;:false}">
+<div class="wp-block-snow-monkey-blocks-slider--item smb-slider__item"><div class="smb-slider__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg" alt="" class="wp-image-2378" srcset="https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-768x512.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-slider__item__caption">キャプション</div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-slider--item smb-slider__item"><div class="smb-slider__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB.jpg" alt="" class="wp-image-2363" srcset="https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB.jpg 1024w, https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-slider__item__caption">キャプション2</div></div>
+</div></div>
+
+
+
+<h2>ステップ</h2>
+
+
+
+<p>順を追って説明する内容を、数字の装飾などと共に掲載できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-step smb-step"><div class="smb-step__body">
+<div class="wp-block-snow-monkey-blocks-step--item--free smb-step__item"><div class="smb-step__item__title"><div class="smb-step__item__number"></div><span>ステップ1</span></div><div class="smb-step__item__body"><div class="smb-step__item__summary">
+<p>ステップ1の内容</p>
+</div></div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-step--item--free smb-step__item"><div class="smb-step__item__title"><div class="smb-step__item__number"></div><span>ステップ2</span></div><div class="smb-step__item__body"><div class="smb-step__item__summary">
+<p>ステップ2</p>
+</div></div></div>
+</div></div>
+
+
+
+<h2>任意のタクソノミー</h2>
+
+
+
+<p>カテゴリーやタグ、カスタムタクソノミーなどで絞り込んでリストを表示できます。</p>
+
+
+<div class="smb-taxonomy-posts " id="">
+	
+<div class="snow-monkey-posts snow-monkey-taxonomy-posts">
+	
+	<ul class="c-entries c-entries--simple" data-has-infeed-ads="false">
+								<li class="c-entries__item">
+				
+<a href="https://h2o-space.com/blog/snow-monkey-blocks-list/">
+	<section class="c-entry-summary c-entry-summary--post">
+		
+<div class="c-entry-summary__figure">
+	<img width="768" height="518" src="https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-768x518.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" srcset="https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-768x518.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-300x202.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-1024x690.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />
+	
+	<span class="c-entry-summary__term c-entry-summary__term--category-127">
+		ウェブサイト活用サポート	</span>
+</div>
+
+		<div class="c-entry-summary__body">
+			<header class="c-entry-summary__header">
+				
+<h2 class="c-entry-summary__title">
+	Snow Monkey Blocksで挿入できるパーツ一覧</h2>
+			</header>
+
+			
+<div class="c-entry-summary__content">
+	WordPressのビジュアルエディター（Gutenberg）は、前回紹介した標準のパーツ（ブロック）の他に、プラグインなどでパーツを増やすことができます。H2O spaceの、ウェブサイト活用サポートで利用している Snow Monkeyには、公式のプラグイン「Snow Monkey Blocks」で、たくさんのパーツを追加することができます。ここでは、その各種類を紹介しましょう。</div>
+
+			
+<div class="c-entry-summary__meta">
+	<ul class="c-meta">
+		<li class="c-meta__item c-meta__item--author">
+			<img alt='' src='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />谷口 允（たにぐち まこと）		</li>
+		<li class="c-meta__item c-meta__item--published">
+			2020.02.27		</li>
+	</ul>
+</div>
+		</div>
+	</section>
+</a>
+			</li>
+								<li class="c-entries__item">
+				
+<a href="https://h2o-space.com/blog/wordpress-visual-editor-parts/">
+	<section class="c-entry-summary c-entry-summary--post">
+		
+<div class="c-entry-summary__figure">
+	<img width="768" height="518" src="https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-768x518.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" srcset="https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-768x518.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-300x202.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6-1024x690.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/aerial-view-of-computer-parts-PSA95D6.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />
+	
+	<span class="c-entry-summary__term c-entry-summary__term--category-127">
+		ウェブサイト活用サポート	</span>
+</div>
+
+		<div class="c-entry-summary__body">
+			<header class="c-entry-summary__header">
+				
+<h2 class="c-entry-summary__title">
+	WordPress のビジュアルエディター（Gutenberg）で挿入できるパーツリスト</h2>
+			</header>
+
+			
+<div class="c-entry-summary__content">
+	WordPressのビジュアルエディター（Gutenberg）では、数多くのパーツを挿入することができます。ここでは、その各パーツの使い方などを紹介しましょう。</div>
+
+			
+<div class="c-entry-summary__meta">
+	<ul class="c-meta">
+		<li class="c-meta__item c-meta__item--author">
+			<img alt='' src='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />谷口 允（たにぐち まこと）		</li>
+		<li class="c-meta__item c-meta__item--published">
+			2020.02.26		</li>
+	</ul>
+</div>
+		</div>
+	</section>
+</a>
+			</li>
+								<li class="c-entries__item">
+				
+<a href="https://h2o-space.com/blog/page-to-front-page/">
+	<section class="c-entry-summary c-entry-summary--post">
+		
+<div class="c-entry-summary__figure">
+	<img width="768" height="511" src="https://h2o-space.com/wp-content/uploads/2020/02/entrance-P7SC53L-768x511.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" srcset="https://h2o-space.com/wp-content/uploads/2020/02/entrance-P7SC53L-768x511.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/entrance-P7SC53L-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/entrance-P7SC53L.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" />
+	
+	<span class="c-entry-summary__term c-entry-summary__term--category-127">
+		ウェブサイト活用サポート	</span>
+</div>
+
+		<div class="c-entry-summary__body">
+			<header class="c-entry-summary__header">
+				
+<h2 class="c-entry-summary__title">
+	WordPressのフロントページ（トップページ）を固定ページにする方法</h2>
+			</header>
+
+			
+<div class="c-entry-summary__content">
+	WordPressでは、通常トップページは最新の投稿一覧が表示されますが、これを固定ページに変更することができます。その手順を紹介しましょう。</div>
+
+			
+<div class="c-entry-summary__meta">
+	<ul class="c-meta">
+		<li class="c-meta__item c-meta__item--author">
+			<img alt='' src='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/68dbeaabe5c7b4382132f4b5c0fe985f?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' />谷口 允（たにぐち まこと）		</li>
+		<li class="c-meta__item c-meta__item--published">
+			2020.02.25		</li>
+	</ul>
+</div>
+		</div>
+	</section>
+</a>
+			</li>
+					</ul>
+
+	</div>
+</div>
+
+
+
+<h2>お客様の声</h2>
+
+
+
+<p>写真などを伴って、レビュー内容などを掲載できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-testimonial smb-testimonial"><div class="smb-testimonial__body"><div class="c-row c-row--margin" data-columns="1" data-md-columns="2" data-lg-columns="2">
+<div class="wp-block-snow-monkey-blocks-testimonial--item c-row__col"><div class="smb-testimonial__item"><div class="smb-testimonial__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2019/08/img_aboutme_big-150x150.jpg" alt="" class="wp-image-2235"/></div><div class="smb-testimonial__item__body"><div class="smb-testimonial__item__content">お客様の声の内容です</div><div class="smb-testimonial__item__name">たにぐち まこと</div><div class="smb-testimonial__item__lede">リード文</div></div></div></div>
+</div></div></div>
+
+
+
+<h2>サムネイルギャラリー</h2>
+
+
+
+<p>画像のリストを表示できます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-thumbnail-gallery smb-thumbnail-gallery"><div class="smb-thumbnail-gallery__canvas" data-smb-thumbnail-gallery="{&quot;arrows&quot;:false,&quot;speed&quot;:300,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:0}">
+<div class="wp-block-snow-monkey-blocks-thumbnail-gallery--item smb-thumbnail-gallery__item"><div class="smb-thumbnail-gallery__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg" alt="" class="wp-image-2378" srcset="https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-1024x682.jpg 1024w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3-768x512.jpg 768w, https://h2o-space.com/wp-content/uploads/2020/02/film-camera-PEHLPT3.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-thumbnail-gallery__item__caption">キャプション</div></div>
+
+
+
+<div class="wp-block-snow-monkey-blocks-thumbnail-gallery--item smb-thumbnail-gallery__item"><div class="smb-thumbnail-gallery__item__figure"><img src="http://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB.jpg" alt="" class="wp-image-2363" srcset="https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB.jpg 1024w, https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB-300x200.jpg 300w, https://h2o-space.com/wp-content/uploads/2019/12/user-login-and-application-launching-PEV7ZKB-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div class="smb-thumbnail-gallery__item__caption">キャプション</div></div>
+</div></div>
+
+
+
+<p>以上、これらのパーツ（ブロック）を組み合わせて、自由にページをデザインすることができます。使いこなしていきましょう。</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>WordPress のビジュアルエディター（Gutenberg）で挿入できるパーツリスト</title>
+		<link>https://h2o-space.com/blog/wordpress-visual-editor-parts/</link>
+				<pubDate>Wed, 26 Feb 2020 11:54:42 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+		<category><![CDATA[Snow Monkey]]></category>
+
+		<guid isPermaLink="false">http://h2o-space.com/?p=2541</guid>
+				<description><![CDATA[WordPressのビジュアルエディター（Gutenberg）では、数多くのパーツを挿入することができます。ここでは、その各パーツの使い方などを紹介しましょう。]]></description>
+								<content:encoded><![CDATA[
+<p>WordPressのビジュアルエディター（Gutenberg）では、数多くのパーツを挿入することができます。ここでは、その各パーツの使い方などを紹介しましょう。</p>
+
+
+
+<h2>段落</h2>
+
+
+
+<div class="wp-block-image is-style-sme-shadowed"><figure class="aligncenter size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-24.png" alt="" class="wp-image-2542" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-24.png 396w, https://h2o-space.com/wp-content/uploads/2020/02/image-24-300x127.png 300w" sizes="(max-width: 396px) 100vw, 396px" /></figure></div>
+
+
+
+<p>本文を入れるためのブロックです。ビジュアルエディターで、文字を打ち込み始めると段落になります。</p>
+
+
+
+<h2>見出し</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-25-1024x188.png" alt="" class="wp-image-2543" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-25-1024x188.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-25-300x55.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-25-768x141.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-25.png 1073w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>文章内の見出しを設定できます。「見出し2（h2）」から、「見出し6（h6）」まで指定でき、数字が小さいほど大きな見出しとなります。なお、「見出し1（h1）」は記事のタイトルが設定されるので、記事の中で利用することはできません。</p>
+
+
+
+<h2>画像</h2>
+
+
+
+<div class="wp-block-image is-style-sme-shadowed"><figure class="aligncenter size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-26.png" alt="" class="wp-image-2544"/></figure></div>
+
+
+
+<p>画像を挿入し、中央揃えをしたり本文と回り込みを設定できます。キャプションを入れることもできます。</p>
+
+
+
+<h2>ギャラリー</h2>
+
+
+
+<p>複数の画像を組み合わせて、ギャラリーを作成することができます。各画像と、ギャラリー自体にキャプションを入れることができます。</p>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-27-1024x280.png" alt="" class="wp-image-2545" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-27-1024x280.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-27-300x82.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-27-768x210.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-27.png 1064w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>リスト</h2>
+
+
+
+<div class="wp-block-image is-style-sme-shadowed"><figure class="aligncenter size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-28.png" alt="" class="wp-image-2546"/></figure></div>
+
+
+
+<p>箇条書きや、番号付き箇条書きを作ることができます。インデントボタンを押すと、リスト内のリストを作ることができます。</p>
+
+
+
+<h2>引用</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-29.png" alt="" class="wp-image-2547" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-29.png 996w, https://h2o-space.com/wp-content/uploads/2020/02/image-29-300x51.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-29-768x130.png 768w" sizes="(max-width: 996px) 100vw, 996px" /></figure>
+
+
+
+<p>他の著作などを一部引用する時に、使うことができます。引用元なども明記できます。</p>
+
+
+
+<h2>カバー写真</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-30-1024x541.png" alt="" class="wp-image-2548" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-30-1024x541.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-30-300x159.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-30-768x406.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-30.png 1065w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>ページの冒頭などに利用しやすい、カバー写真を挿入できます。半透明色を設定したり、文字色を設定することもできます。</p>
+
+
+
+<h2>ファイル・動画・音声</h2>
+
+
+
+<p>ページ内に動画や音声を埋め込んだり、ファイルへのダウンロードリンクを設置できます。</p>
+
+
+
+<h2>コード</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-31-1024x101.png" alt="" class="wp-image-2550" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-31-1024x101.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-31-300x29.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-31-768x75.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-31.png 1059w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>フォントが等幅のフォントになり、枠などで囲まれるため、プログラムコードなどを掲載しやすくなります。</p>
+
+
+
+<h2>クラシック</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-32.png" alt="" class="wp-image-2551" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-32.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-32-300x66.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-32-768x168.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>WordPress 4以前で採用されていたビジュアルエディター（クラシックエディター）を起動することができます。前のエディターが使い慣れている場合などに利用できます。</p>
+
+
+
+<h2>カスタムHTML</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-33.png" alt="" class="wp-image-2552" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-33.png 970w, https://h2o-space.com/wp-content/uploads/2020/02/image-33-300x90.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-33-768x230.png 768w" sizes="(max-width: 970px) 100vw, 970px" /></figure>
+
+
+
+<p>HTMLのソースコードを直接記述できます。ビジュアルエディターでは表現できないものなどを、直接記述できます。</p>
+
+
+
+<h2>整形済み</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-34-1024x272.png" alt="" class="wp-image-2553" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-34-1024x272.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-34-300x80.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-34-768x204.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-34.png 1056w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>通常の段落では、改行や空白が省略されることがあります。整形済みを利用すれば、それらがそのまま反映されるため、テキストファイルの内容をそのまま掲載する場合などに利用できます。</p>
+
+
+
+<h2>プルクオート</h2>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-35-1024x220.png" alt="" class="wp-image-2554" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-35-1024x220.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-35-300x64.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-35-768x165.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-35.png 1057w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>引用と似た使い方ですが、強調したような装飾を加えることができます。</p>
+
+
+
+<h2>テーブル</h2>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-36-1024x166.png" alt="" class="wp-image-2555" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-36-1024x166.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-36-300x49.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-36-768x125.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-36.png 1052w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>表組みを作成できます。</p>
+
+
+
+<h2>詩</h2>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-37-1024x84.png" alt="" class="wp-image-2556" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-37-1024x84.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-37-300x25.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-37-768x63.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-37.png 1056w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>ポエムなどの掲載に使われますが、背景色と枠が作られるため、コラム的な扱いをすることができます。</p>
+
+
+
+<h2>ボタン</h2>
+
+
+
+<div class="wp-block-image is-style-sme-shadowed"><figure class="aligncenter size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-38.png" alt="" class="wp-image-2564"/></figure></div>
+
+
+
+<p>リンクを張れるボタンを設置できます。</p>
+
+
+
+<h2>カラム</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-40.png" alt="" class="wp-image-2566" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-40.png 842w, https://h2o-space.com/wp-content/uploads/2020/02/image-40-300x18.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-40-768x47.png 768w" sizes="(max-width: 842px) 100vw, 842px" /></figure>
+
+
+
+<p>2段組みや3段組みできる「カラム」を設定できます。</p>
+
+
+
+<h2>グループ</h2>
+
+
+
+<p>複数のパーツをまとめて、グループを作ることができます。</p>
+
+
+
+<h2>メディアと文章</h2>
+
+
+
+<figure class="wp-block-image size-large is-style-sme-shadowed"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-41.png" alt="" class="wp-image-2567" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-41.png 827w, https://h2o-space.com/wp-content/uploads/2020/02/image-41-300x75.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-41-768x191.png 768w" sizes="(max-width: 827px) 100vw, 827px" /></figure>
+
+
+
+<p>画像と文章を組み合わせて、2段組みのレイアウトを作れます。</p>
+
+
+
+<h2>続きを読む</h2>
+
+
+
+<p>このパーツを設置すると、それ以降に書かれた内容が一覧には表示されなくなり、実際のページに移動して見るように促すことができます。</p>
+
+
+
+<h2>改ページ</h2>
+
+
+
+<p>印刷時に改ページする場所を指定できます。</p>
+
+
+
+<h2>区切り</h2>
+
+
+
+<p>区切り記号を入れることができます。</p>
+
+
+
+<h2>スペーサー</h2>
+
+
+
+<p>ページ内に余白を作ることができます。マウスで幅を調整できます。</p>
+
+
+
+<h2>ウィジェットの各機能</h2>
+
+
+
+<p>WordPressの「ウィジェット」機能で利用できる、以下のコントロールを埋め込むことができます。</p>
+
+
+
+<ul><li>ショートコード</li><li>アーカイブ</li><li>カレンダー</li><li>カテゴリー</li><li>最新のコメント</li><li>最新の記事</li><li>RSS</li><li>検索</li><li>タグクラウド</li></ul>
+
+
+
+<h2>埋め込み</h2>
+
+
+
+<p>次のような各種サービスのコンテンツを埋め込むことができます。</p>
+
+
+
+<ul><li>Twitter</li><li>YouTube</li><li>Facebook</li><li>Instagram</li><li>WordPress</li><li>SoundCloud</li><li>Spotify</li><li>Flickr</li><li>Vimeo</li><li>Animoto</li><li>Cloudup</li><li>Crowdsignal</li><li>Dailymotion</li><li>Hulu</li><li>Imgur</li><li>Issuu</li><li>Kickstarter</li><li>Meetup.com</li><li>Mixcloud</li><li>Reddit</li><li>ReverbNation</li><li>Screencast</li><li>Scribd</li><li>Slideshare</li><li>SmugMug</li><li>Speaker Deck</li><li>TED</li><li>Tumblr</li><li>VideoPress</li><li>WordPress.tv</li><li>Amazon Kindle</li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>WordPressのフロントページ（トップページ）を固定ページにする方法</title>
+		<link>https://h2o-space.com/blog/page-to-front-page/</link>
+				<pubDate>Tue, 25 Feb 2020 06:29:53 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+		<category><![CDATA[Snow Monkey]]></category>
+
+		<guid isPermaLink="false">http://h2o-space.com/?p=2529</guid>
+				<description><![CDATA[WordPressでは、通常トップページは最新の投稿一覧が表示されますが、これを固定ページに変更することができます。その手順を紹介しましょう。]]></description>
+								<content:encoded><![CDATA[
+<p>WordPressでウェブサイトを制作すると、トップページ（WordPressではフロントページと呼びます）には通常、最新の投稿が並びます。ブログサイトやニュースサイトの場合はこれでも良いのですが、企業サイトや商品紹介のサイトの場合、トップページでさまざまな情報を展開したい場合があるでしょう。</p>
+
+
+
+<p>このような場合、「固定ページ」をフロントページとして設定することができます。ここでは、その手順を紹介しましょう。</p>
+
+
+
+<h2>固定ページを作成する</h2>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-22.png" alt="" class="wp-image-2532"/></figure></div>
+
+
+
+<p>まずは、フロントページに設定するための固定ページを作成しましょう。固定ページの作り方は通常通りで、内容も自由に作ることができます。正し、「パーマリンク」の設定は、後で上書きされてしまうため、特に変更する必要はありません。</p>
+
+
+
+<p></p>
+
+
+
+<h2>投稿一覧ページの固定ページを作成する</h2>
+
+
+
+<p>次に少し変わった手続きとして、もう1つ固定ページを作成します。こちらは、後で「投稿の一覧ページ」にかわります。</p>
+
+
+
+<p>これは、本来フロントページで表示されていた「最新の投稿の一覧」が、フロントページの書き換えでなくなってしまうため、その代わりとなるページを作成する必要があるためです。</p>
+
+
+
+<p>こちらの固定ページは、タイトルとパーマリンクを次のように設定します。</p>
+
+
+
+<p><strong>タイトル</strong><br>投稿の一覧ページに付加するタイトル。「ニュース」や「ブログ」など。</p>
+
+
+
+<p><strong>パーマリンク<br></strong>投稿の一覧ページにしたいURL。「news」や「blog」など。</p>
+
+
+
+<p>内容は変更する必要がありません。追って無効にされてしまいます。</p>
+
+
+
+<h2>設定を変更する</h2>
+
+
+
+<p>ここまで準備ができたら、WordPressの管理画面から「設定→表示設定」を選択しましょう。Snow Monkeyを利用している場合は「外観→カスタマイズ→ホームページ設定」からも変更可能です。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-23.png" alt="" class="wp-image-2535" width="211" height="215" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-23.png 314w, https://h2o-space.com/wp-content/uploads/2020/02/image-23-294x300.png 294w" sizes="(max-width: 211px) 100vw, 211px" /></figure></div>
+
+
+
+<p>そしたら、以下のように変更します。</p>
+
+
+
+<p><strong>ホームページ<br></strong>先ほど作った、トップページ（フロントページ）用の固定ページを選択します。</p>
+
+
+
+<p><strong>投稿ページ<br></strong>先ほど作った、投稿一覧用の固定ページを指定します</p>
+
+
+
+<p>これで、サイトのアドレスにアクセスをすると、作成した固定ページが表示されるようになります。また、例えば「投稿ページ」のパーマリンクを、「news」にした場合は、次のURLでアクセスができるようになります。</p>
+
+
+
+<pre class="wp-block-preformatted">https://example.com/news/</pre>
+
+
+
+<p>このアドレスには、標準でどこからもリンクが張られないため、メニューを作成するなどしてリンクしておきましょう。</p>
+
+
+
+<h2>ホームページ制作にもWordPress</h2>
+
+
+
+<p>WordPressは、CMS（コンテンツ管理システム）の中でも特に「ブログツール」と呼ばれ、ブログやメディアサイトを運用するのに最適な CMSと言われています。</p>
+
+
+
+<p>しかしこのように、フロントページを変更することでトップページで情報を掲載しながら、ニュースの一覧ページを別途準備することなどもでき、企業のウェブサイトにも最適なツールとして利用することができます。</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Snow Monkeyカスタマイズガイド</title>
+		<link>https://h2o-space.com/blog/snow-monkey-customize-guide/</link>
+				<pubDate>Tue, 25 Feb 2020 05:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+		<category><![CDATA[Snow Monkey]]></category>
+
+		<guid isPermaLink="false">http://h2o-space.com/?p=2483</guid>
+				<description><![CDATA[Snow Monkeyには、数多くのカスタマイズ項目があり、自分好みのウェブサイトに仕上げることができます。ここでは、各設定項目について紹介していきましょう。]]></description>
+								<content:encoded><![CDATA[
+<p>Snow Monkeyには、数多くのカスタマイズ項目があり、自分好みのウェブサイトに仕上げることができます。ここでは、各設定項目について紹介していきましょう。</p>
+
+
+
+
+
+<h2>カスタマイズを始めるには</h2>
+
+
+
+<p>カスタマイズは、WordPressの管理画面にログインして、左側のメニューから「外観→カスタマイズ」メニューをクリックしましょう。次のような、カスタマイズ画面に移動します。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-8-1024x802.png" alt="" class="wp-image-2489" width="449" height="352" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-8-1024x802.png 1024w, https://h2o-space.com/wp-content/uploads/2020/02/image-8-300x235.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-8-768x602.png 768w, https://h2o-space.com/wp-content/uploads/2020/02/image-8.png 1340w" sizes="(max-width: 449px) 100vw, 449px" /></figure></div>
+
+
+
+<p>左の各項目を変更すると、右側のプレビューが変化します。これを見ながらカスタマイズしていきましょう。</p>
+
+
+
+<h2>各設定項目について</h2>
+
+
+
+<h3>Snow Moneky コミュニティ</h3>
+
+
+
+<p>ここでは、Snow Monkeyのサポートページなどに移動することができます。</p>
+
+
+
+<h3>サイト基本情報</h3>
+
+
+
+<h4>ロゴ</h4>
+
+
+
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-9.png" alt="" class="wp-image-2491" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-9.png 343w, https://h2o-space.com/wp-content/uploads/2020/02/image-9-300x103.png 300w" sizes="(max-width: 343px) 100vw, 343px" /></figure><div class="wp-block-media-text__content">
+<p class="has-normal-font-size"> 画像ファイルをアップロードし、ウェブサイトの上部などにロゴマークを表示することができます。 </p>
+</div></div>
+
+
+
+<h4>サイトのタイトル</h4>
+
+
+
+<p>ウェブサイトの名前を指定します。企業名やサービス名など、そのサイトの名前を入力してください。</p>
+
+
+
+<h4>キャッチフレーズ</h4>
+
+
+
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-10.png" alt="" class="wp-image-2492" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-10.png 332w, https://h2o-space.com/wp-content/uploads/2020/02/image-10-300x99.png 300w" sizes="(max-width: 332px) 100vw, 332px" /></figure><div class="wp-block-media-text__content">
+<p class="has-normal-font-size"> ウェブサイトの説明を一言加えます。「ヘッダー」のカスタマイズで表示したりすることができます。必要ない場合は、空欄でも構いません。 </p>
+</div></div>
+
+
+
+<h4>コピーライト</h4>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-11.png" alt="" class="wp-image-2493" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-11.png 652w, https://h2o-space.com/wp-content/uploads/2020/02/image-11-300x40.png 300w" sizes="(max-width: 652px) 100vw, 652px" /></figure>
+
+
+
+<p>フッター部分に著作権表記をすることができます。リンクを設定することもできます。</p>
+
+
+
+<h4>サイトアイコン</h4>
+
+
+
+<div class="wp-block-media-text alignwide" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-12.png" alt="" class="wp-image-2494"/></figure><div class="wp-block-media-text__content">
+<p class="has-normal-font-size"> ウェブブラウザーのアドレス欄などに表示される、小さなアイコンを設定できます。 </p>
+</div></div>
+
+
+
+<h3>メニュー・ウィジェット</h3>
+
+
+
+<p>メニューのカスタマイズについては、別途「メニューを作ろう（執筆中）」をご参照ください。また、ウィジェットについては「 ウィジェットを活用しよう （執筆中）」をご参照ください。</p>
+
+
+
+<h3>ホームページ設定</h3>
+
+
+
+<p>WordPressは標準ではトップページに、最新の投稿が時系列で表示されるブログ的なレイアウトで固定されています。これを、「固定ページ」にすることでトップページでコンテンツを展開したり、最新のニュースを数件だけ表示することができるなど、自由にレイアウトができます。</p>
+
+
+
+<p>「固定ページ」を選択したい場合は、あらかじめ次の2つの固定ページを作成してください。</p>
+
+
+
+<ul><li>フロントページ用の固定ページ： ここでトップページの内容を作成して行きます</li><li>投稿ページ用の固定ページ： この固定ページは内容を空にしておいて構いません。「パーマリンク」を変更しておく必要があります。</li></ul>
+
+
+
+<p>ホームページ設定について詳しくは、「固定ページをフロントページにする方法」をご参照ください。</p>
+
+
+
+<h3>追加CSS</h3>
+
+
+
+<p>CSSを直接記述して、細かくカスタマイズする場合はここに入力していきます。この機能については詳細を省略します。</p>
+
+
+
+<h3>デザイン</h3>
+
+
+
+<p>ここでは、デザインの細かい設定を行うことができます。</p>
+
+
+
+<h4>基本デザイン設定</h4>
+
+
+
+<h5>アクセントカラー・サブアクセントカラー</h5>
+
+
+
+<p>強調文字の色や、ラベルなどで使われる色を設定できます。</p>
+
+
+
+<h5>基本の文字サイズ・基本フォント</h5>
+
+
+
+<p>本文などで使われる文字サイズを変更できます。ここで設定した内容に合わせて、全体の見出しの大きさなどのバランスも調整されます。通常は 16px程度、小さくても 14px異常に設定すると良いでしょう。</p>
+
+
+
+<h5>コンテンツの最大幅</h5>
+
+
+
+<p>コンテンツの幅を設定できます。狭くした場合は、表現に制限が出る代わりにスマートフォンとデスクトップの見た目の差が少なくなります。</p>
+
+
+
+<h5>パンくずリストの表示位置</h5>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://h2o-space.com/wp-content/uploads/2020/02/image-13.png" alt="" class="wp-image-2497" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-13.png 936w, https://h2o-space.com/wp-content/uploads/2020/02/image-13-300x44.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-13-768x113.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure>
+
+
+
+<p>記事の詳細ページの「パンくずリスト」を画面の上部と下部のどちらに表示するか、およびその幅を設定できます。</p>
+
+
+
+<h5>記事一覧レイアウト</h5>
+
+
+
+<p>投稿の一覧などで、次の3種類から選ぶことができます。</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-14.png" alt="" data-id="2499" data-full-url="http://h2o-space.com/wp-content/uploads/2020/02/image-14.png" data-link="http://h2o-space.com/?attachment_id=2499" class="wp-image-2499" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-14.png 644w, https://h2o-space.com/wp-content/uploads/2020/02/image-14-300x249.png 300w" sizes="(max-width: 644px) 100vw, 644px" /><figcaption class="blocks-gallery-item__caption">リッチメディア</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-15.png" alt="" data-id="2500" data-full-url="http://h2o-space.com/wp-content/uploads/2020/02/image-15.png" data-link="http://h2o-space.com/?attachment_id=2500" class="wp-image-2500" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-15.png 479w, https://h2o-space.com/wp-content/uploads/2020/02/image-15-300x217.png 300w" sizes="(max-width: 479px) 100vw, 479px" /><figcaption class="blocks-gallery-item__caption">シンプル</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-16.png" alt="" data-id="2501" data-full-url="http://h2o-space.com/wp-content/uploads/2020/02/image-16.png" data-link="http://h2o-space.com/?attachment_id=2501" class="wp-image-2501" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-16.png 470w, https://h2o-space.com/wp-content/uploads/2020/02/image-16-300x237.png 300w" sizes="(max-width: 470px) 100vw, 470px" /><figcaption class="blocks-gallery-item__caption">テキスト</figcaption></figure></li></ul></figure>
+
+
+
+<h4>デフォルトページヘッダー画像・デフォルトアイキャッチ画像</h4>
+
+
+
+<p>各記事にアイキャッチ画像を指定しなかった場合に表示される、標準の画像がある場合に指定することができます。</p>
+
+
+
+<h4>その他の設定項目</h4>
+
+
+
+<ul><li>サイトの概要をサイトロゴの下に表示する &#8211; 「キャッチフレーズ」がヘッダーに表示されます</li><li>Pure CSS ギャラリーを使用する &#8211; 「Pure CSS」という CSSライブラリーが利用されます</li><li>more タグとパスワード保護を同時に使用している場合、moreタグより前のコンテンツ表示する &#8211; 「パスワード保護」をした記事で、記事の一部を表示するかを選択します</li><li>ドロワーナビゲーション内に検索ボックスを表示する</li><li>ページ上部へ戻るボタンを表示</li></ul>
+
+
+
+<h4>ヘッダー</h4>
+
+
+
+<h5>ヘッダーレイアウト</h5>
+
+
+
+<p>ヘッダーのレイアウトを次の種類から選択できます。</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-17.png" alt="" data-id="2504" data-full-url="http://h2o-space.com/wp-content/uploads/2020/02/image-17.png" data-link="http://h2o-space.com/?attachment_id=2504" class="wp-image-2504" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-17.png 492w, https://h2o-space.com/wp-content/uploads/2020/02/image-17-300x75.png 300w" sizes="(max-width: 492px) 100vw, 492px" /><figcaption class="blocks-gallery-item__caption">1行</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-18.png" alt="" data-id="2505" data-full-url="http://h2o-space.com/wp-content/uploads/2020/02/image-18.png" data-link="http://h2o-space.com/?attachment_id=2505" class="wp-image-2505" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-18.png 793w, https://h2o-space.com/wp-content/uploads/2020/02/image-18-300x61.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-18-768x155.png 768w" sizes="(max-width: 793px) 100vw, 793px" /><figcaption class="blocks-gallery-item__caption">2行</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-19.png" alt="" data-id="2506" data-full-url="http://h2o-space.com/wp-content/uploads/2020/02/image-19.png" data-link="http://h2o-space.com/?attachment_id=2506" class="wp-image-2506" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-19.png 383w, https://h2o-space.com/wp-content/uploads/2020/02/image-19-300x117.png 300w" sizes="(max-width: 383px) 100vw, 383px" /><figcaption class="blocks-gallery-item__caption">中央ロゴ</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-20.png" alt="" data-id="2507" data-full-url="http://h2o-space.com/wp-content/uploads/2020/02/image-20.png" data-link="http://h2o-space.com/?attachment_id=2507" class="wp-image-2507" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-20.png 808w, https://h2o-space.com/wp-content/uploads/2020/02/image-20-300x35.png 300w, https://h2o-space.com/wp-content/uploads/2020/02/image-20-768x88.png 768w" sizes="(max-width: 808px) 100vw, 808px" /><figcaption class="blocks-gallery-item__caption">シンプル</figcaption></figure></li></ul></figure>
+
+
+
+<h5>グローバルナビゲーションを縦書きにする</h5>
+
+
+
+<div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="http://h2o-space.com/wp-content/uploads/2020/02/image-21.png" alt="" class="wp-image-2508" srcset="https://h2o-space.com/wp-content/uploads/2020/02/image-21.png 505w, https://h2o-space.com/wp-content/uploads/2020/02/image-21-300x130.png 300w" sizes="(max-width: 505px) 100vw, 505px" /></figure><div class="wp-block-media-text__content">
+<p class="has-normal-font-size">縦書きメニューを利用できます</p>
+</div></div>
+
+
+
+<h5>ヘッダー位置・PC用ヘッダー位置</h5>
+
+
+
+<p>次の各組み合わせで選ぶことができます。</p>
+
+
+
+<ul><li>上部固定・オーバーレイ &#8211; 最初に表示されるメニューがそのまま固定されるか、スクロール時に上からメニューが被るか（オーバーレイ）を選びます</li><li>背景色 &#8211; オーバーレイは透明色、ノーマルや上部固定は白になります</li></ul>
+
+
+
+<h5>ヘッダーコンテンツ</h5>
+
+
+
+<p>ヘッダー部分に、HTMLを挿入できます。常時表示するバナーなどを掲載できます。HTMLタグをそのまま挿入する必要があります。また、「モバイルでもヘッダーコンテンツを表示」にチェックをつけると、スマートフォンでも表示されます。</p>
+
+
+
+<h3>フッター</h3>
+
+
+
+<h4>フッターウィジットエリアのカラム数</h4>
+
+
+
+<p>フッターの列数を決められます。数が多いほど、多くのウィジェットが設置できます。</p>
+
+
+
+<h4>アーカイブページレイアウト</h4>
+
+
+
+<p>ニュースの一覧ページなどのレイアウトを次の中から選ぶことができます。</p>
+
+
+
+<ul><li>ランディングページ（スリム幅） ※</li><li>ランディングページ ※</li><li>左サイドバー</li><li>フル幅</li><li>1カラム（スリム幅）</li><li>1カラム</li><li>右サイドバー</li></ul>
+
+
+
+<p>ランディングページというのは、CSSでのカスタマイズが前提のレイアウトで余白などがまったくなくなります。</p>
+
+
+
+<h3>お知らせバー</h3>
+
+
+
+<p>画面の上部に、お知らせを常時掲載することができます。コンテンツ、リンク先とテキストカラー、背景色をカスタマイズできます。緊急のお知らせや、常時掲載したいキャンペーン情報などにご利用ください。</p>
+
+
+
+<h2>デザインスキン</h2>
+
+
+
+<p>デザインスキンは、Snow Monkeyのウェブサイトの見た目を変化させることができるスタイルシートです。無償で配布されているものなどから変更することができます。</p>
+
+
+
+<h2>SEO</h2>
+
+
+
+<p>ここでは、検索エンジン最適化（SEO）に関する設定を行うことができます。各設定項目については、専門的な知識が必要なため、ここでは説明を省略します。</p>
+
+
+
+<h2>SNS</h2>
+
+
+
+<p>Twitterや Facebookのシェアボタンの設置の他、Facebookのいいね数のカウントや、Facebookページへのいいねの誘導などを設置できます。</p>
+
+
+
+<h2>広告</h2>
+
+
+
+<p>Google Adsenseを利用した広告配信を行う場合、発行されるタグなどをここに設置します。</p>
+
+
+
+<h2>ページ速度最適化</h2>
+
+
+
+<p>ページの表示速度をより早めて、Googleの評価を上げたり、利用者のストレスを軽減することができます。</p>
+
+
+
+<h4>Snow Monkeyの JavaScript読み込みを最適化する</h4>
+
+
+
+<p>JavaScriptの読み込みを遅らせて表示速度を速めます。ただし、JavaScriptのプログラムによっては動作しなくなる時などがあるため、その場合はこれを解除します。</p>
+
+
+
+<h4>jQueryの読み込みを最適化する</h4>
+
+
+
+<p>上記と同様に、jQueryの読み込みを最適化します</p>
+
+
+
+<h4>HTTP2 Server Pushを利用する</h4>
+
+
+
+<p>HTTP2という高速な通信を利用します。ただし、対応したサーバーでのみ利用できます。</p>
+
+
+
+<h4>CSS headに出力する</h4>
+
+
+
+<p>通常、外部ファイルとして読み込まれる CSSファイルを直接記述させることで、ファイルのダウンロード数を減らすことができます。HTMLソースが見にくくなると言うデメリットがあります。</p>
+
+
+
+<h4>ブラウザキャッシュを利用する</h4>
+
+
+
+<p>ブラウザーのキャッシュ機能を最適化します。対応したサーバーが必要です。</p>
+
+
+
+<h4>メニューをキャッシュ</h4>
+
+
+
+<p>メニューをキャッシュして、保存しておくことで表示速度を速めます。正し、キャッシュが更新されないとメニューが変わらないなどの弊害があります。メニューの内容が変わらなくなるタイミングなどに ONにしましょう。</p>
+
+
+
+<h4>画像の非同期読み込み</h4>
+
+
+
+<p>画像ファイルをページの読み込みとは分けて（非同期）読み込みます。ページ自体の表示速度が速くなりますが、画像を多用しているウェブページの場合は、内容が分からなくなるなどの恐れがあります。</p>
+
+
+
+<h4>軽量な FontAwesomeを利用する</h4>
+
+
+
+<p>FontAwsomeとは、アイコンを利用するためのファイル群です。これを、軽量のものを利用することで表示速度を速めます。ただし、使えるアイコンの個数が減るなどの弊害があります。</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>御社を 3行で説明してください &#8211; Descriptionの設定</title>
+		<link>https://h2o-space.com/blog/description/</link>
+				<pubDate>Sat, 31 Aug 2019 14:27:37 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+
+		<guid isPermaLink="false">https://h2o-space.com/?p=2300</guid>
+				<description><![CDATA[御社のことを3行で説明して下さいと言われたら、どんなことを盛り込みますか？　Googleの検索結果にはこの3行が重要です。]]></description>
+								<content:encoded><![CDATA[
+<p>「御社のことを説明してください」。そう言われれば、業務内容から強みから歴史まで、いくらでも話せる方がいるかもしれません。特に、創業者社長さんでしたら、自分の会社への思い入れもあるので、話すネタには困ることがないでしょう。</p>
+
+
+
+<p>では、「3行で説明してください」と言われたらどうでしょう？ 何から説明するのか悩んでしまうかもしれません。この「3行」には実は理由があります。Googleの「Description」の設定がこの位の文字数なのです。ここでは、Descriptionについて紹介していきましょう。</p>
+
+
+
+<span id="more-2300"></span>
+
+
+
+<p>Googleで「H2O space」と検索をしてみてください。検索結果に H2O spaceの情報が表示されますが、その下にこんな説明文が表示されます。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-16.png" alt="" class="wp-image-2303" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-16.png 804w, https://h2o-space.com/wp-content/uploads/2019/08/image-16-300x75.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-16-768x191.png 768w" sizes="(max-width: 804px) 100vw, 804px" /></figure>
+
+
+
+<blockquote class="wp-block-quote"><p>「ウェブをちゃんと」をコーポーレートテーマに、ウェブをちゃんと活用した開発のお手伝いをしています。<br> 月額 3500円のサイト制作「セルフプラン」や、kintoneと連携したウェブ制作など</p></blockquote>
+
+
+
+<p>これが、説明文（Description）です。Googleなどの検索エンジンでは、これが設定されている場合は優先的に表示され、設定されていない場合は本文から適当な文章を拾って表示します。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-17.png" alt="" class="wp-image-2305" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-17.png 786w, https://h2o-space.com/wp-content/uploads/2019/08/image-17-300x95.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-17-768x244.png 768w" sizes="(max-width: 786px) 100vw, 786px" /></figure>
+
+
+
+<p>説明文として表示されるのは、120文字から 160文字でそれ以上の場合は、「…」で省略されてしまいます。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-18.png" alt="" class="wp-image-2306" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-18.png 785w, https://h2o-space.com/wp-content/uploads/2019/08/image-18-300x63.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-18-768x160.png 768w" sizes="(max-width: 785px) 100vw, 785px" /></figure>
+
+
+
+<p>そのため、3行でまとめる必要があるというわけです。</p>
+
+
+
+<h2>サイト名・キャッチコピーとはかぶらせない</h2>
+
+
+
+<p>ここで注意が必要なのが「サイト名」と、先に紹介した「キャッチコピー」を改めて入れる必要はありません。検索サイトでは必ずセットでサイト名などが表示されるため、逆に、説明文にこれを含めると重複した情報となってしまいます。</p>
+
+
+
+<p>これらを除いて、3行で考えていきましょう。（ただし、あえて重複させるというテクニックもあります）</p>
+
+
+
+<h2>説明文に入れたい内容</h2>
+
+
+
+<p>では、短い文字数で何を優先して説明するのが良いでしょう？ ここでは、次のポイントを意識すると良いでしょう。</p>
+
+
+
+<ul><li>得意なこと</li><li>地域名・駅名など</li><li>刺さるキーワード</li></ul>
+
+
+
+<p>それぞれ紹介していきましょう。</p>
+
+
+
+<h3>得意なこと</h3>
+
+
+
+<p>御社が得意とすることを書いていくのが基本となります。例えば同じ美容室だとしても、カラーが得意なのか、パーマが得意なのかによって特色が決まって来ます。</p>
+
+
+
+<p>「○○工務店」という所でも、一般の住宅を得意とするのか、商業施設なのか、リフォームなのか新築なのかなど、自社がその業界の中でどんな立ち位置であるかを示す言葉を記載すると良いでしょう。例えば、H2O spaceの場合は「ウェブ制作会社」と行っても、特に「kintone」と「WordPress」を得意としているため、それを記載しています。</p>
+
+
+
+<h3>地域名・駅名</h3>
+
+
+
+<p>店舗を展開する業種の場合、例えば美容室や飲食店、ショップなどの場合は最寄りの駅名などを記載すると良いでしょう。また、多少最寄りではなくても次のように、</p>
+
+
+
+<p><span class="smb-highlighter">○駅徒歩5分、○駅や○駅も利用可能です。</span></p>
+
+
+
+<p>といった具合で、来ることが可能な駅名なども記載しておけば、近所でその業種を探しているユーザーにもヒットすることがあります。</p>
+
+
+
+<h3>刺さるキーワード</h3>
+
+
+
+<p>説明文（Description）の目的は、「検索結果をクリックしてもらうこと」になります。あるキーワードでユーザーが検索したときに、一覧をざっと眺めている中で「お、このサイトはちょっと見てみよう」と思わせることが重要です。</p>
+
+
+
+<p>社長・店長の思いを一言添えるとか、「こんな方に是非来て欲しい」といった、ターゲットに「刺さる一言」を加えると良いでしょう。「○○な方は、是非お立ち寄りください」とか「○○のために尽力しています」などなど。</p>
+
+
+
+<p>ここは、比較的自由に書いてしまって個性が出ても良いかも知れません。</p>
+
+
+
+<h2>説明文を決めたら、All in One SEOに設定しよう</h2>
+
+
+
+<p>説明文が決まったら、セルフプランのメニューバーから「All in One SEO→一般設定」にアクセスしましょう。</p>
+
+
+
+<p>図の「ホームデスクリプション」という設定項目があるため、ここに入力します。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-19-1024x674.png" alt="" class="wp-image-2308" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-19-1024x674.png 1024w, https://h2o-space.com/wp-content/uploads/2019/08/image-19-300x197.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-19-768x505.png 768w, https://h2o-space.com/wp-content/uploads/2019/08/image-19.png 1167w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>改行は入れても無視されることが多いため、入れずに入力してしまって良いでしょう。文字数が表示されるので、これを参考に削ったり付け足したりしていきましょう。</p>
+
+
+
+<p>こうして設定した後、数日待つと検索結果に反映されます。ただし、検索されたキーワードなどによってはこの設定が無視されて本文の一部が抜き出されてしまうこともあるため、注意しましょう。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-btn aligncenter u-clearfix smb-btn-wrapper"><a class="smb-btn" href="https://h2o-space.com/service/self/"><span class="smb-btn__label">ホームページ制作・セルフプラン</span></a></div>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>御社のキャッチコピーはなんですか？ &#8211; キャッチフレーズの設定</title>
+		<link>https://h2o-space.com/blog/catchcopy-for-your-company/</link>
+				<pubDate>Wed, 28 Aug 2019 12:59:38 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+
+		<guid isPermaLink="false">https://h2o-space.com/?p=2271</guid>
+				<description><![CDATA[ホームページを作るときに、そのとっかかりとなる御社のキャッチコピーを考えるヒントを紹介します]]></description>
+								<content:encoded><![CDATA[
+<p>ホームページを作るとき、トップページに何を置くか、どんなページ構成にするか、誰に何を伝え、何をゴールとするのかなどを考えなければなりません。</p>
+
+
+
+<p>そんなとき、考えるとっかかりとなるのが「キャッチコピー」です。御社を一言で表す「キャッチコピー」があれば、それを説明するホームページを作っていけば良いことになります。ここでは、キャッチコピーの考え方を紹介しましょう。</p>
+
+
+
+<span id="more-2271"></span>
+
+
+
+<h2>鉛筆のキャッチコピーを考えよう</h2>
+
+
+
+<p>例えば御社が鉛筆を製造・販売する会社だったとして、「鉛筆製造会社」というキャッチコピーでは、全くアピールできる要素がありません。</p>
+
+
+
+<p>しかし、例えば「頭の良くなる鉛筆」だとどうでしょう。「なぜ頭が良くなるのだろう」と俄然興味が沸くのではないでしょうか。もしかしたら、それは単に「握りやすい形」をしているから、勉強が楽しくなって頭が良くなるという一種のこじつけかもしれません。しかし、キャッチコピーはそのくらい大げさなものでも良いのです。</p>
+
+
+
+<p>見る人が一瞬で興味を抱き、「より詳しく知りたい」「話を聞いてみたい」と思わせるのがポイントです。</p>
+
+
+
+<p>例えば、H2O spaceはそのキャッチコピーを、2019年から「<span class="smb-highlighter">ウェブをちゃんと。</span>」としています。ちなみにそれ以前は2006年ごろから「ちゃんとWeb」としていました。</p>
+
+
+
+<p>弊社はこの「ちゃんと」というキーワードをキーにしています。ちゃんとしたホームページを、ちゃんと作る。ちゃんとお客様のお話をお聞きするなど、「ちゃんと」という言葉は、非常に響きもよく、弊社がウェブ（ホームページ）に対して向き合う姿勢を表している言葉だと感じ、愛用しています。</p>
+
+
+
+<p>それでは、キャッチコピーの考え方をいくつか紹介しましょう。</p>
+
+
+
+<h2>直接型</h2>
+
+
+
+<p>まずは、直接その事業を説明するスタイルです。例えば弊社でしたら「ホームページ制作会社（ウェブ制作会社）」。例えばここに地域名などを入れて、「東京のウェブ制作会社」などとなるでしょう。</p>
+
+
+
+<p>このようなキャッチコピーは、事業自体が他にはなく、普通に説明をするだけで特徴が伝わる場合などに有効です。例えば、日本茶を専門に出すカフェがあったとしましょう。この場合、捻らなくても</p>
+
+
+
+<p><span class="smb-highlighter">「日本茶専門カフェ」</span></p>
+
+
+
+<p>とするだけで、かなり興味を引くのではないでしょうか。さらに、最寄駅などを添えて、</p>
+
+
+
+<p><span class="smb-highlighter">「渋谷駅徒歩5分の日本茶専門カフェ」</span></p>
+
+
+
+<p>などとすれば、東京近郊の方は行きたくなるかもしれません。ただ、先の「東京のウェブ制作会社」などですと、同業者がありすぎて、ちょっとありふれたものになってしまっています。</p>
+
+
+
+<h2>説明型</h2>
+
+
+
+<p>次は、他の会社と明らかな違いがあり、それを説明すれば伝わる場合です。最もわかりやすいのが金額です。例えば、英会話教室があったとしましょう。通常だと、1万円前後が会費の相場でしょうが、ここでは 2,980円から通えるようになっているとします。そしたらキャッチコピーは、</p>
+
+
+
+<p><span class="smb-highlighter">「2,980円からの本格英会話」</span></p>
+
+
+
+<p>などとすると、他との差別化が図れます。なぜそんなに低価格で実現できるのか、どんなサービス内容なのかをホームページでしっかり説明していきましょう。</p>
+
+
+
+<p>また、できることを羅列しても良いでしょう。例えば、牛丼屋のようですが</p>
+
+
+
+<p><span class="smb-highlighter">「早くて安くて高品質なホームページ制作」</span></p>
+
+
+
+<p>などとなります。低価格というのはアピールにしやすいですが、逆に高額な場合もあえてそれを逆手に取ることができます。</p>
+
+
+
+<p><span class="smb-highlighter">「日本一価格が高いホームページ制作会社」</span></p>
+
+
+
+<p>などとすると、「なぜ高いんだろう？」などと興味を引きます。</p>
+
+
+
+<h2>印象型</h2>
+
+
+
+<p>H2O spaceの「ウェブをちゃんと。」はこのタイプです。一見すると意味がわかりませんが、「ちゃんと」という言葉が印象に残るのではないでしょうか。もし残ってくれたら、筆者の狙い通りです。</p>
+
+
+
+<p>こうして、何かインパクトのある言葉を配して、その言葉を印象に残すというものです。先の「<span class="smb-highlighter">頭が良くなる鉛筆</span>」も、それだけではどんな鉛筆なのか全くわかりませんが、印象に残ります。</p>
+
+
+
+<p>文章もあえて崩し、途中で終わってしまっていたり、大切な部分が抜けていたり、語順がバラバラだったりすると印象に残ります。例えば、弊社の「ウェブをちゃんと。」も、「<span class="smb-highlighter">ウェブをちゃんと作ります</span>」とすれば、文章としては完成しますが、印象には残りにくくなりませんか？</p>
+
+
+
+<p>「ちゃんと」であえて終わっているため、「ちゃんと なんなのか」という部分が気になって印象に残ります。また実はここには「ちゃんと作る」「ちゃんと向き合う」「ちゃんと運営する」など、いろいろな言葉をつなげるために、このキャッチコピーにしています。</p>
+
+
+
+<p><span class="smb-highlighter">「日本を、1枚で。」</span></p>
+
+
+
+<p>これは、JR東日本の「Suica」のキャッチコピーです。これも、文章が部分的でこれだけでは伝わりませんが、Suicaの全容がわかった後でこのキャッチコピーを見ると、特徴を見事に言い表しています。</p>
+
+
+
+<p>もし、Suicaを先の「説明型」のコピーにするなら、</p>
+
+
+
+<p><span class="smb-highlighter">切符がわりに全国どこでも利用できる ICカード</span></p>
+
+
+
+<p>となります。これもこれでわかりやすくて良いですが、印象型の方が「残る」キャッチコピーとなります。</p>
+
+
+
+<h2>キャッチコピーが決まったら、「キャッチフレーズ」に設定しよう</h2>
+
+
+
+<p>キャッチコピーが決まったら、<a href="https://h2o-space.com/service/self/">セルフプラン</a>の管理画面から「設定→一般」メニューをたどって、「キャッチフレーズ」という設定項目に入力しておきましょう。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-15-1024x716.png" alt="" class="wp-image-2298" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-15-1024x716.png 1024w, https://h2o-space.com/wp-content/uploads/2019/08/image-15-300x210.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-15-768x537.png 768w, https://h2o-space.com/wp-content/uploads/2019/08/image-15.png 1077w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>検索エンジンの検索結果などに表示されるようになります。</p>
+
+
+
+<p>御社のキャッチコピーはなんでしょう？ この機会にぜひ考えてみてください。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-btn aligncenter u-clearfix smb-btn-wrapper"><a class="smb-btn" href="/service/self"><span class="smb-btn__label">自分で作るホームページ。「セルフプラン」</span></a></div>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>無料で素人が画像加工できる日本語のツール比較</title>
+		<link>https://h2o-space.com/blog/picture/</link>
+				<pubDate>Sat, 24 Aug 2019 13:48:02 +0000</pubDate>
+		<dc:creator><![CDATA[Sumiyo MAKINO]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+
+		<guid isPermaLink="false">https://h2o-space.com/?p=2241</guid>
+				<description><![CDATA[「ちょっとしたバナーを作りたい」「撮影した写真の明るさを調整したい」など、画像の加工はＷｅｂを使った広報に欠かせないものです。
+ とはいえ予算がないであれば、Photoshopのような高価な画像加工ツールは導入しづらいもの。そこで、無料でできる画像加工のツールについていくつかご紹介します。]]></description>
+								<content:encoded><![CDATA[
+<p>「ちょっとしたバナーを作りたい」「撮影した写真の明るさを調整したい」など、画像の加工はＷｅｂを使った広報に欠かせないものです。<br> とはいえ予算がないであれば、Photoshopのような高価な画像加工ツールは導入しづらいもの。そこで、無料でできる画像加工のツールについていくつかご紹介します。</p>
+
+
+
+<p>※<a rel="noreferrer noopener" aria-label="Cacoo (opens in a new tab)" href="https://cacoo.com/" target="_blank">Cacoo</a>など、無料体験版を使うことで加工できるツールもありますが、原則有料のため今回は扱いません。</p>
+
+
+
+<span id="more-2241"></span>
+
+
+
+<p>▼オンラインツール<br> ・Canva<br> ・Fotor<br> ・PS Express</p>
+
+
+
+<p>▼各種ソフト<br>
+ ・ペイント（Win）<br>
+ ・PowerPoint (Win/Mac)</p>
+
+
+
+<h2>Canva</h2>
+
+
+
+<p><a rel="noreferrer noopener" aria-label=" https://www.canva.com/ (opens in a new tab)" href="http:// https://www.canva.com/" target="_blank">https://www.canva.com/</a><br> KDDIウェブコミュニケーションズの運営する画像加工のオンラインツール。<br> 自身のアカウントを作ってログインすれば、提供される画像以外にも自身の画像をアップロードしてオンラインで加工が可能です。<br> 各種フィルタ加工、明るさ・彩度・ぼかしなどの加工、反転などが手軽に可能です。<br> 文字レイアウトのデザインテンプレートもあるので、デザインに自信のない人にも親切なサービスになっています。</p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/Canva-1024x699.jpg" alt="" class="wp-image-2242" width="768" height="524" srcset="https://h2o-space.com/wp-content/uploads/2019/08/Canva-1024x699.jpg 1024w, https://h2o-space.com/wp-content/uploads/2019/08/Canva-300x205.jpg 300w, https://h2o-space.com/wp-content/uploads/2019/08/Canva-768x524.jpg 768w, https://h2o-space.com/wp-content/uploads/2019/08/Canva.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<h2>Fotor</h2>
+
+
+
+<p><a rel="noreferrer noopener" aria-label="https://www.fotor.com/app (opens in a new tab)" href="https://www.fotor.com/app" target="_blank">https://www.fotor.com/app</a><br><br>デバイスを問わずオンラインで明るさなどの調整やぼかし、テキスト追加、各種フレーム等の追加などが使える「Fotor」。<br>アカウントを作らなくてもいきなり画像加工をすることが可能です。「編集」「コラージュ」「デザイン」から好きな操作を選べます。さまざまな操作にガイドがついているため、初心者にもフレンドリーなつくりになっています。<br>画面内では常に広告が表示されますが、これらの機能を無料使えるのであればご愛敬でしょう。</p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/fotor-1024x690.jpg" alt="" class="wp-image-2248" width="768" height="518" srcset="https://h2o-space.com/wp-content/uploads/2019/08/fotor-1024x690.jpg 1024w, https://h2o-space.com/wp-content/uploads/2019/08/fotor-300x202.jpg 300w, https://h2o-space.com/wp-content/uploads/2019/08/fotor-768x517.jpg 768w, https://h2o-space.com/wp-content/uploads/2019/08/fotor.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<h2>  Photoshop Express Editor (Photoshopオンラインツール)</h2>
+
+
+
+<p><a rel="noreferrer noopener" aria-label=" https://www.photoshop.com/tools (opens in a new tab)" href="http:// https://www.photoshop.com/tools" target="_blank">https://www.photoshop.com/tools</a><br> Adobeの提供する画像加工のオンラインツール。<br> スマホでアプリをダウンロードし、Googleアカウント／Facebookアカウント／AdobeIDのいずれかを使うことで、日本語で画像加工機能を使うことが可能です。<br> 有料のPhotoshopと比べると使える機能は限られますが、色調補正や文字・各種素材の合成などが可能です。SNSなどにスマホから直接加工した画像をタイムリーにアップロードしたい場合はこちらのアプリが便利かもしれません。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/IMG_9547.png" alt="" class="wp-image-2243" srcset="https://h2o-space.com/wp-content/uploads/2019/08/IMG_9547.png 360w, https://h2o-space.com/wp-content/uploads/2019/08/IMG_9547-169x300.png 169w" sizes="(max-width: 360px) 100vw, 360px" /></figure>
+
+
+
+<p>なおWeb版は、起動にAdobe Flash Playerのインストールが必要になります。パソコン版（Web版）は英語の表示となるため、Photoshopを使ったことがある人や英語に慣れた人のほうが使いやすいかもしれません。</p>
+
+
+
+<h2>ペイント</h2>
+
+
+
+<p>Windowsには標準で搭載されているペイント。画像のトリミングやサイズの変更が手早くできますが、色調補正はできず、文字を載せる加工は、複雑なものはできません。</p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/e307b886e68187bf6f0cfdb998dbef16-1024x953.jpg" alt="" class="wp-image-2244" width="768" height="715" srcset="https://h2o-space.com/wp-content/uploads/2019/08/e307b886e68187bf6f0cfdb998dbef16-1024x953.jpg 1024w, https://h2o-space.com/wp-content/uploads/2019/08/e307b886e68187bf6f0cfdb998dbef16-300x279.jpg 300w, https://h2o-space.com/wp-content/uploads/2019/08/e307b886e68187bf6f0cfdb998dbef16-768x715.jpg 768w, https://h2o-space.com/wp-content/uploads/2019/08/e307b886e68187bf6f0cfdb998dbef16.jpg 1035w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<h2>PowerPoint</h2>
+
+
+
+<p>パソコンに標準装備でプレゼン資料作成のためのソフト「PowerPoint」が搭載されている場合は、それを使ってある程度の画像加工をすることができます。<br> ・図の明るさ／彩度／コントラストなど<br> ・文字や画像をレイヤーとして重ねること<br> ・トリミング<br> 等も可能です。複数の要素を重ねて画像を作った場合は、PPTファイルとして保存すことでレイヤーを保持できますので、一部要素のみ入れ替えた素材を作成したい場合などに便利です。できあがった画像はキャプチャしてペイントに貼り付け、好きな形式で保存します。</p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/PowerPoint-1.jpg" alt="" class="wp-image-2246" width="739" height="622" srcset="https://h2o-space.com/wp-content/uploads/2019/08/PowerPoint-1.jpg 985w, https://h2o-space.com/wp-content/uploads/2019/08/PowerPoint-1-300x252.jpg 300w, https://h2o-space.com/wp-content/uploads/2019/08/PowerPoint-1-768x646.jpg 768w" sizes="(max-width: 739px) 100vw, 739px" /></figure>
+
+
+
+<p>無料で使えるツールは様々あるので、すばやく画像加工して広報に活かせるように 自分にあったものを探してみてください。</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>SiteGuardから WP Cerberに乗り換えました</title>
+		<link>https://h2o-space.com/blog/wp-cerber/</link>
+				<pubDate>Sat, 17 Aug 2019 06:02:53 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+
+		<guid isPermaLink="false">https://h2o-space.com/?p=2225</guid>
+				<description><![CDATA[WordPressは、管理画面へのログインURLを変更したり、reCAPTCHAを導入するなどのセキュリティ対策が必須です。H2O spaceではこれまで、「SiteGuard WP Plugin」を導入していましたが、今回「WP Cerber」に乗り換えました。]]></description>
+								<content:encoded><![CDATA[
+<p>WordPressは、管理画面へのログインURLを変更したり、reCAPTCHAを導入するなどのセキュリティ対策が必須です。H2O spaceではこれまで、「<a href="https://www.jp-secure.com/siteguard_wp_plugin/">SiteGuard WP Plugin</a>」を導入していましたが、今回「<a href="https://wpcerber.com/">WP Cerber</a>」に乗り換えました。</p>
+
+
+
+<span id="more-2225"></span>
+
+
+
+<h2>乗り換えの理由は、Nginxに移行したため</h2>
+
+
+
+<p>プラグインを乗り換えた理由は、運用しているウェブサーバーを Nginxに乗り換えたため。WordPressは通常、Apacheというウェブサーバーで動作することが前提とされています。プラグインの多くもこれを前提に作られていて、特に Apacheで URLの制御などを行う「.htaccess」というファイルを使うプラグインの場合、これに強く依存します。</p>
+
+
+
+<p>しかし近年、動作速度の問題などから Nginxで WordPressを稼働させることが増えていて、H2O spaceも乗り換えました。すると、.htaccessが利用できなくなるため、SiteGuardが利用できなくなります。</p>
+
+
+
+<p>そこで、乗り換え先のプラグインを検証し、この WP Cerberに決めました。</p>
+
+
+
+<h2>WP Cerberに決めた理由</h2>
+
+
+
+<p>筆者が Siteguardで主に利用していた機能は、次の2点です。</p>
+
+
+
+<ul><li>ログイン画面のURLを変更する</li><li>reCAPTCHAを導入する</li></ul>
+
+
+
+<p>個の2点を叶えられるプラグインを探していました。英語のプラグインであるため、多少設定がしにくい面はありますが、次の手順でそれぞれ設定できました。</p>
+
+
+
+<h2>ログイン画面のURL変更</h2>
+
+
+
+<p>プラグインをインストールすると、左側のメニューに「WP Cerber」という項目が追加されます。まずは、「Dashboard→Main Settings」にアクセスします。</p>
+
+
+
+<p>真ん中付近に「Custom login page」という項目があるため、この「Custom login URL」に変更した後の URLを入力します。また、「Disable wp-login.php」を Onにすると「/wp-login.php」へのアクセスを防ぐことができます。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-12.png" alt="" class="wp-image-2226" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-12.png 957w, https://h2o-space.com/wp-content/uploads/2019/08/image-12-300x83.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-12-768x212.png 768w" sizes="(max-width: 957px) 100vw, 957px" /></figure>
+
+
+
+<h2>reCAPTCHAの導入</h2>
+
+
+
+<p>reCAPTCHAは、左側のメニューの「Antispam」メニューの「reCAPTCHA」タブで設定できます。</p>
+
+
+
+<p>設定には「Site key」と「Secret key」が必要で、これは Googleの <a href="https://www.google.com/recaptcha/intro/v3.html#">reCAPTCHAサイト</a>で取得できます。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-13.png" alt="" class="wp-image-2227" width="493" height="345" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-13.png 985w, https://h2o-space.com/wp-content/uploads/2019/08/image-13-300x210.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-13-768x537.png 768w" sizes="(max-width: 493px) 100vw, 493px" /></figure></div>
+
+
+
+<p>後は、どこで reCAPTCHAを有効にするかを設定します。筆者のサイトはコメント欄や WooCommerceは導入していないため、Login formのみ Onにしました。「Invisible reCAPTCHA」は信頼できる端末の場合は表示しないで認証ができるしくみのようです。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-14.png" alt="" class="wp-image-2228" width="497" height="481" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-14.png 994w, https://h2o-space.com/wp-content/uploads/2019/08/image-14-300x290.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-14-768x743.png 768w" sizes="(max-width: 497px) 100vw, 497px" /></figure></div>
+
+
+
+<p>まだまだ細かい設定がありそうなので、引き続き調査しています。「この設定はすべし」といった内容がありましたら教えてくださいませ。</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>WordPressの登録ユーザーにメール配信可能な『Bluff Post』</title>
+		<link>https://h2o-space.com/blog/bluff-post/</link>
+				<comments>https://h2o-space.com/blog/bluff-post/#respond</comments>
+				<pubDate>Wed, 31 Jul 2019 16:54:14 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+
+		<guid isPermaLink="false">https://h2o-space.com/?p=2190</guid>
+				<description><![CDATA[WordPressでメールニュースを配信できるプラグインは数多くありますが、複雑な条件で送信ユーザーを設定できる、日本製のプラグイン『Bluff Post』を紹介します。]]></description>
+								<content:encoded><![CDATA[
+<p>WordPressでメールニュースを配信できるプラグインは数多くありますが、複雑な条件で送信ユーザーを設定できる、日本製のプラグイン『<a href="https://www.bluff-lab.com/bluff-post/">Bluff Post</a>』を紹介します。</p>
+
+
+
+<span id="more-2190"></span>
+
+
+
+<h2>プラグインをインストールする</h2>
+
+
+
+<p>Bluff Postのインストールは、他のプラグインと同様で「プラグイン→新規追加」からインストールと有効化をするだけで利用できます。「Bluff Post」といったキーワードで検索すると良いでしょう。</p>
+
+
+
+<p></p>
+
+
+
+<h2>メルマガ登録フォームを作成する</h2>
+
+
+
+<p>プラグインを有効にすると、ウィジェットに「Bluff Subscribe Widget」が追加されます。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image.png" alt="" class="wp-image-2194" width="304" height="434" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image.png 405w, https://h2o-space.com/wp-content/uploads/2019/08/image-210x300.png 210w" sizes="(max-width: 304px) 100vw, 304px" /></figure></div>
+
+
+
+<p>これを、サイドバーなどに追加することで、メルマガの購読者を集めることができます。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-1.png" alt="" class="wp-image-2195" width="346" height="109" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-1.png 461w, https://h2o-space.com/wp-content/uploads/2019/08/image-1-300x94.png 300w" sizes="(max-width: 346px) 100vw, 346px" /></figure></div>
+
+
+
+<p>また、WordPressの「購読者」にも送信できるため、通常の会員登録の手続きでも構いません。</p>
+
+
+
+<h2>メールの文面を作成する</h2>
+
+
+
+<p>サイドメニューには「メール送信」「テンプレート」「メール宛先」というメニューと、「Mail」という投稿タイプの投稿エリアが追加されます。まずは、「メール送信」をクリックしましょう。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-2.png" alt="" class="wp-image-2196" width="153" height="236" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-2.png 305w, https://h2o-space.com/wp-content/uploads/2019/08/image-2-194x300.png 194w" sizes="(max-width: 153px) 100vw, 153px" /></figure></div>
+
+
+
+<p>はじめに、カレンダーが表示されます。これは、予約投稿をすることができ、カレンダーから送信日を選べます。すぐに配信したい場合は、メニューから「メール作成」をクリックしましょう。</p>
+
+
+
+<p>「宛先条件」には「WordPress購読者（ウィジェット登録者のみ）」を選ぶと、先のフォームで登録したユーザーに送信できます。その他の条件でも送信ができ、また条件を追加することもできます（後述）。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-3.png" alt="" class="wp-image-2197" width="566" height="305" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-3.png 755w, https://h2o-space.com/wp-content/uploads/2019/08/image-3-300x161.png 300w" sizes="(max-width: 566px) 100vw, 566px" /></figure></div>
+
+
+
+<p>予約日時を設定できますが、「予約」という緑色のボタンをクリックすると、即時配信にも切り替え可能です。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-4.png" alt="" class="wp-image-2198" width="625" height="78" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-4.png 833w, https://h2o-space.com/wp-content/uploads/2019/08/image-4-300x37.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-4-768x96.png 768w" sizes="(max-width: 625px) 100vw, 625px" /></figure></div>
+
+
+
+<p>その他、送信者やメールアドレス、件名と本文を入力しましょう。</p>
+
+
+
+<p>「メールページ作成」とは、メールで送信した内容をウェブページとしても表示することができます。下書きとして保存しておくか、公開をするか、または作成しないかを選ぶことができます。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-5.png" alt="" class="wp-image-2199" width="392" height="118" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-5.png 523w, https://h2o-space.com/wp-content/uploads/2019/08/image-5-300x90.png 300w" sizes="(max-width: 392px) 100vw, 392px" /></figure></div>
+
+
+
+<p>また、本文内に「%%」で囲まれた特殊な記述を埋め込むと、ユーザー情報を差し込むことができます。詳細は、送信画面の画面下部にヘルプが表示されます。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-6-1024x450.png" alt="" class="wp-image-2200" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-6-1024x450.png 1024w, https://h2o-space.com/wp-content/uploads/2019/08/image-6-300x132.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-6-768x337.png 768w, https://h2o-space.com/wp-content/uploads/2019/08/image-6.png 1451w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>メールの文面ができあがったら、確認して送信をしましょう。テストメールを送信することもできます。</p>
+
+
+
+<p>送信したメールの内容は「送信予約一覧」「送信中メール」「送信済みメール」や「エラー」「ログ」といった各画面で状況を確認できます。</p>
+
+
+
+<h2>テンプレートの作成</h2>
+
+
+
+<p>メールのヘッダーやフッターなどは、テンプレートとして登録しておくことができます。サイドメニューから「テンプレート」をクリックしましょう。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-7-1024x418.png" alt="" class="wp-image-2201" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-7-1024x418.png 1024w, https://h2o-space.com/wp-content/uploads/2019/08/image-7-300x122.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-7-768x313.png 768w, https://h2o-space.com/wp-content/uploads/2019/08/image-7.png 1439w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>登録したテンプレートは、メール作成画面で「件名」の左側にあるアイコンから呼び出すことができます。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-8.png" alt="" class="wp-image-2202" width="430" height="161" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-8.png 573w, https://h2o-space.com/wp-content/uploads/2019/08/image-8-300x112.png 300w" sizes="(max-width: 430px) 100vw, 430px" /></figure></div>
+
+
+
+<h2>メール宛先の作成</h2>
+
+
+
+<p>Bluff Postで最も特徴的な機能が、メール宛先の作成です。ここでは、非常に複雑な条件でメールの宛先リストを作成することができます。</p>
+
+
+
+<p>まずは、宛先条件名に見分けのつきやすい名前を付加し、「グループ追加」をクリックします。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-9-1024x292.png" alt="" class="wp-image-2203" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-9-1024x292.png 1024w, https://h2o-space.com/wp-content/uploads/2019/08/image-9-300x85.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-9-768x219.png 768w, https://h2o-space.com/wp-content/uploads/2019/08/image-9.png 1467w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>すると、テーブルやカラムなどを指定しながら条件を作っていくことができます。ここで作る条件は、データベースのカラム情報と一致していて、そのまま SQL構文が生成されます。実際に「SQLプレビュー」ボタンをクリックすると、発行される SQLを見ることができます。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-10-1024x96.png" alt="" class="wp-image-2204" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-10-1024x96.png 1024w, https://h2o-space.com/wp-content/uploads/2019/08/image-10-300x28.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-10-768x72.png 768w, https://h2o-space.com/wp-content/uploads/2019/08/image-10.png 1444w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>例えば、先の「ウィジット登録をした購読者」の条件は次のようになっています。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/08/image-11-1024x319.png" alt="" class="wp-image-2205" srcset="https://h2o-space.com/wp-content/uploads/2019/08/image-11-1024x319.png 1024w, https://h2o-space.com/wp-content/uploads/2019/08/image-11-300x93.png 300w, https://h2o-space.com/wp-content/uploads/2019/08/image-11-768x239.png 768w, https://h2o-space.com/wp-content/uploads/2019/08/image-11.png 1214w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これは、「wp_capabilities（権限）」が「subscriber（購読者）」であり、かつ「_blfpst_subscribe_mailmagazine」という、拡張メタキーが「subscribe」となっているユーザーだけを絞り込んでいます。ウィジットから登録したユーザーについては拡張メタキーを利用して、分類しています。</p>
+
+
+
+<p>なお、ユーザーの拡張メタキーは、WordPressのカスタマイズで自由に拡張することもできます。</p>
+
+
+
+<p>また、送信したくないユーザーは「宛先除外リスト」に追加しておくことができます。</p>
+
+
+
+<h2>バックナンバーページを作る</h2>
+
+
+
+<p>配信したメールの内容は、特別な投稿タイプ「blfpst_mail」に追加されていきます。URLは標準で、次のようになります。</p>
+
+
+
+<pre class="wp-block-code"><code>https://example.com/blfpst_mail/xxx</code></pre>
+
+
+
+<p>カテゴリーも利用できます。カテゴリーは次のようなURLになります。</p>
+
+
+
+<pre class="wp-block-code"><code>https://example.com/blfpst_mail_category/xxx</code></pre>
+
+
+
+<p>必要に応じて利用すると良いでしょう。</p>
+
+
+
+<h2>メールマガジンの配信にはベストなプラグイン</h2>
+
+
+
+<p> Bluff Post はこのように、非常に高機能なメール配信プラグインです。ただし、宛先の条件作成については、若干のデータベースの知識や SQLの知識が必要になり複雑です。必要に応じて、このあたりを学習すると、より活用範囲が広がるでしょう。まずは、基本の宛先リストでのメール配信からはじめてみてはいかがでしょうか。</p>
+
+
+
+<p>導入などでお困りのことがありましたら、<a href="/contact">ご相談</a>頂ければ幸いです。</p>
+]]></content:encoded>
+							<wfw:commentRss>https://h2o-space.com/blog/bluff-post/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>kintoneのポータルを自由に編集できる、ポータルAPIと『Kintone Portal Designer』</title>
+		<link>https://h2o-space.com/blog/customize-kintone-portal/</link>
+				<pubDate>Tue, 23 Jul 2019 01:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[谷口 允（たにぐち まこと）]]></dc:creator>
+				<category><![CDATA[ウェブサイト活用サポート]]></category>
+
+		<guid isPermaLink="false">https://h2o-space.com/?p=2156</guid>
+				<description><![CDATA[kintoneにログインした直後に表示される画面を「ポータル」と呼び、スペースやアプリの一覧、掲示板などを利用できます。このポータルが、2019年7月のアップデートでカスタマイズできるようになりました。]]></description>
+								<content:encoded><![CDATA[
+<p>kintoneにログインした直後に表示される画面を「ポータル」と呼び、スペースやアプリの一覧、掲示板などを利用できます。このポータルが、2019年7月のアップデートでカスタマイズできるようになりました。</p>
+
+
+
+<h2>設定でカスタマイズ</h2>
+
+
+
+<p>まずは、ポータルの設定画面に設定項目が増えました。ポータルを表示して、右端の設定ボタンから、「ポータルの設定」をクリックしましょう。</p>
+
+
+
+<p>「ポータルに表示するコンテンツ」という設定項目で、非表示にする項目を設定できるようになりました。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/07/image-3-1024x847.png" alt="" class="wp-image-2157" width="512" height="424" srcset="https://h2o-space.com/wp-content/uploads/2019/07/image-3-1024x847.png 1024w, https://h2o-space.com/wp-content/uploads/2019/07/image-3-300x248.png 300w, https://h2o-space.com/wp-content/uploads/2019/07/image-3-768x635.png 768w, https://h2o-space.com/wp-content/uploads/2019/07/image-3.png 1053w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+
+
+
+<h2>JavaScriptでのカスタマイズ</h2>
+
+
+
+<p>kintoneのイベントAPIに「portal.show」が追加され、ポータルが表示された時に JavaScriptを発動することができます。これにより、ポータルの画面上に新たな要素、ボタンなどを追加することができるようになりました。</p>
+
+
+
+<h2>Kintone Portal Designerを利用したカスタマイズ</h2>
+
+
+
+<p>Google Chrome用の拡張機能として、「Kintone Portal Designer」がリリースされました。次のサイトからダウンロードできます。</p>
+
+
+
+<ul><li><a href="https://chrome.google.com/webstore/detail/kintone-portal-designer/kmedncknheiegbelfmcfdlpcpfbnklmo?hl=ja">Kintone Portal Designer</a></li></ul>
+
+
+
+<p>なお、「Kintone」の先頭が大文字なのは米国での表記に合わせてあります（日本での表記は、kintone）。</p>
+
+
+
+<p>プラグインをインストールすると、ポータル画面の右端に設定ボタンが表示されます。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://h2o-space.com/wp-content/uploads/2019/07/image-4-1024x89.png" alt="" class="wp-image-2158" srcset="https://h2o-space.com/wp-content/uploads/2019/07/image-4-1024x89.png 1024w, https://h2o-space.com/wp-content/uploads/2019/07/image-4-300x26.png 300w, https://h2o-space.com/wp-content/uploads/2019/07/image-4-768x67.png 768w, https://h2o-space.com/wp-content/uploads/2019/07/image-4.png 1534w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>これをクリックすると、HTMLエディターが起動します。ここで、オリジナルのHTMLを作成できます。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/07/image-5-1024x679.png" alt="" class="wp-image-2159" width="512" height="340" srcset="https://h2o-space.com/wp-content/uploads/2019/07/image-5-1024x679.png 1024w, https://h2o-space.com/wp-content/uploads/2019/07/image-5-300x199.png 300w, https://h2o-space.com/wp-content/uploads/2019/07/image-5-768x509.png 768w, https://h2o-space.com/wp-content/uploads/2019/07/image-5-1920x1273.png 1920w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+
+
+
+<p>左上の「Default Portal」と書かれているスライドスイッチをクリックして、「Design Portal」に切り替えてHTMLを作り込んでいきます。すると、例えば次のようにポータルを変更することができます。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://h2o-space.com/wp-content/uploads/2019/07/image-6-1024x679.png" alt="" class="wp-image-2160" width="512" height="340" srcset="https://h2o-space.com/wp-content/uploads/2019/07/image-6-1024x679.png 1024w, https://h2o-space.com/wp-content/uploads/2019/07/image-6-300x199.png 300w, https://h2o-space.com/wp-content/uploads/2019/07/image-6-768x509.png 768w, https://h2o-space.com/wp-content/uploads/2019/07/image-6-1920x1273.png 1920w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
+
+
+
+<p>なお、いくつかのサンプルがエディターの右上にある「Import→Import Sample Template」から選択できます。ただし、HTMLだけで作った場合、アプリの一覧などはそのままでは表示されなくなってしまうため、手作業でのメンテナンスか、または JavaScriptとの組み合わせによる開発が必要です。</p>
+
+
+
+<p>また、このツールでデザインを変更しても、変わるのは自分のブラウザー内だけなので、これを実際に kintoneに適用するには、「Export」ボタンからJavaScriptファイルをエクスポートし、kintone全体のカスタマイズでファイルをアップロードする必要があります。</p>
+
+
+
+<h2>kintoneのポータル画面を、自社の情報ポータルへ</h2>
+
+
+
+<p>kintoneのポータル画面をカスタマイズできるようになり、安全性の高い社内ポータルを構築することができます。外部のAPIと kintone内の個人情報を連携してグラフを描画したり、高度な検索システムを構築したりなども自在です。H2O spaceも今後も、これらの機能を研究し、便利なポータル構築を模索していきます。</p>
+
+
+
+<div class="wp-block-snow-monkey-blocks-btn aligncenter u-clearfix smb-btn-wrapper"><a class="smb-btn" href="/contact/"><span class="smb-btn__label"> kintoneポータルカスタマイズのご相談はこちらから </span></a></div>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
+ 
