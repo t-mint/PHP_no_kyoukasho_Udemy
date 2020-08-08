@@ -25,7 +25,7 @@ if (!empty($_POST)) {
 	unset($_SESSION['join']);
 
 	// 登録完了ページに遷移
-	header('Location: thanks.php');
+	header('Location: thanks.php?kind=insert');
 	exit();
 }
 

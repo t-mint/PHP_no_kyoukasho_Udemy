@@ -94,6 +94,19 @@ if (isset($_REQUEST['res'])) {
   $message = '@'. $table['name']. '　'. $table['message'];
 }
 // ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+// 2018/8/7改修：開始
+//ファンクション：htmlspecialchars関数を使ったエスケープ処理をファンクション化
+function h($value){
+  return htmlspecialchars($value, ENT_QUOTES, 'UTF-8');
+}
+
+//ファンクション：本文内のURLを検知してリンク化
+function makeLink($value){
+  return mb_ereg_replace("(https?)(://[[:alnum:]\+\$\;\?\.%,!#~*/:@&=_-]+)", '<a href="\1\2">\1\2</a>', $value);
+}
+// 2018/8/7改修：終了
+
 ?>
 <!DOCTYPE html>
 <html lang="ja">
@@ -112,13 +125,20 @@ if (isset($_REQUEST['res'])) {
     <h1>ひとこと掲示板</h1>
   </div>
   <div id="content">
+<!-- 2018/8/7改修：開始 -->
+  <!-- ログイン中表示、および登録内容変更ページへのリンク -->
+  <div style="text-align: right"><a href="change_input.php">
+  <?php echo h($member['name']); ?>さんログイン中
+  </a></div>
+<!-- 2018/8/7改修：終了 -->
+
   	<div style="text-align: right"><a href="logout.php">ログアウト</a></div>
     <form action="" method="post">
       <dl>
         <dt><?php htmlspecialchars(print($member['name']), ENT_QUOTES); ?>さん、メッセージをどうぞ</dt>
         <dd>
         <!-- 返信用メッセージが（$message）があればテキストエリアに表示する -->
-          <textarea name="message" cols="50" rows="5"><?php print(htmlspecialchars($message, ENT_QUOTES)); ?></textarea>
+          <textarea name="message" cols="50" rows="5"><?php print(htmlspecialchars($message, ENT_QUOTES));?></textarea>
           <!-- hiddenパラメータで返信先の投稿IDがあれば渡す -->
           <input type="hidden" name="reply_post_id" value="<?php htmlspecialchars(print($_REQUEST['res']), ENT_QUOTES); ?>" />
         </dd>
@@ -128,6 +148,14 @@ if (isset($_REQUEST['res'])) {
           <input type="submit" value="投稿する" />
         </p>
       </div>
+<!-- 2018/8/7改修：開始　★機能しないため次回調査改修予定-->
+      <?php
+      //入力フォームが空欄メッセ表示
+      if(isset($_POST['message']) && $_POST['message'] == ''):
+      ?>
+          <p style="color: #F33;">※投稿メッセージを入力してください</p>
+      <?php endif; ?>
+<!-- 2018/8/7改修：終了 -->
     </form>
 <?php foreach($posts as $post): ?>
     <div class="msg">
